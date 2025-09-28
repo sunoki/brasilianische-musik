@@ -7,9 +7,9 @@ app = Flask(__name__)
 CORS(app)  # Habilitar CORS para permitir acesso à API
 
 # Configuração dos caminhos para os arquivos estáticos
-MAIN_SITE_PATH = '/media/sunoki/Files/Backup/brazilian-music-package-final-v2/brazilian-music-site'
-ADMIN_SITE_PATH = '/media/sunoki/Files/Backup/brazilian-music-package-final-v2/brazilian-music-admin'
-JSON_PATH = '/media/sunoki/Files/Backup/brazilian-music-package-final-v2/expanded-songs.json'
+MAIN_SITE_PATH = './brazilian-music-site'
+ADMIN_SITE_PATH = './brazilian-music-admin'
+JSON_PATH = './expanded-songs.json'
 
 # Rota para o site principal
 @app.route('/', defaults={'path': ''})
