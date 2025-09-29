@@ -46,18 +46,12 @@
       "youtube": "https://www.youtube.com/watch?v=a27ym4MA4FY",
       "spotify": "https://open.spotify.com/track/7azaUeZjFTpxUbpTFsZPX4?si=a2ccf00097d044fd"
     },
-    "description": "Poetische Reflexion über Freundschaften, Träume und verlorene Zeit; Montenegro nutzt eine Reimstruktur, die einer echten Liste ähnelt, um das Leben als Abfolge von Entscheidungen zu sehen.",
+    "description": "\"A Lista\" ist eine melancholische Selbstreflexion über die Vergänglichkeit von Freundschaften, Träumen und Lebenszielen. Montenegro verwendet eine einfache Akkordstruktur und repetitive Fragestruktur, die zum Nachdenken über persönliche Lebensbilanz einlädt.",
     "cultural_context": {
       "historical": "Oswaldo Montenegro begann seine Karriere in den 1970er Jahren und ist bekannt für seine poetischen, nachdenklichen Texte. Er hat eine treue Fangemeinde in Brasilien aufgebaut, die seine philosophischen Betrachtungen schätzt.",
       "musical": "Seine Musik ist stark von der brasilianischen MPB (Música Popular Brasileira) beeinflusst, mit akustischen Gitarren und klaren, ausdrucksstarken Gesangslinien."
     },
-    "idiomatic_expressions": [
-      {
-        "original": "Faça uma lista",
-        "translated": "Mache eine Liste",
-        "explanation": "Der wiederkehrende Aufruf, eine Liste zu erstellen, ist eine Metapher für Selbstreflexion und Lebensbilanz. Es geht nicht um eine tatsächliche Liste, sondern um die Bestandsaufnahme des eigenen Lebens."
-      }
-    ],
+    "idiomatic_expressions": [],
     "tags": [
       "MPB",
       "folk",
@@ -85,11 +79,21 @@
       "musical": "Ihr Sound kombiniert Rock mit brasilianischen Rhythmen und sozialkritischen Texten. \"A Melhor Banda de Todos os Tempos\" ist eine ironische Reflexion über die Vergänglichkeit von Ruhm und die Oberflächlichkeit der Musikindustrie."
     },
     "idiomatic_expressions": [
-      {
-        "original": "A melhor banda de todos os tempos da última semana",
-        "translated": "Die beste Band aller Zeiten der letzten Woche",
-        "explanation": "Eine ironische Wendung, die die Vergänglichkeit von Ruhm und die Oberflächlichkeit der Musikindustrie kritisiert. Die Übertreibung verdeutlicht, wie schnell \"Stars\" entstehen und wieder verschwinden."
-      }
+    {
+      "original": "Quinze minutos de fama",
+      "translated": "Fünfzehn Minuten Ruhm",
+      "explanation": "Anspielung auf Andy Warhols berühmten Ausspruch über vergänglichen Ruhm in der Mediengesellschaft. Kritisiert die Kurzlebigkeit des Erfolgs in der Unterhaltungsindustrie." 
+    },
+    {
+      "original": "A melhor banda de todos os tempos da última semana",
+      "translated": "Die beste Band aller Zeiten der letzten Woche",
+      "explanation": "Ironischer Widerspruch, der die Vergänglichkeit von Ruhm und die Oberflächlichkeit der Musikindustrie kritisiert. Die Übertreibung verdeutlicht, wie schnell \"Stars\" entstehen und wieder verschwinden." 
+    },
+    {
+      "original": "Cala a boca e aumenta o volume",
+      "translated": "Halt den Mund und dreh die Lautstärke hoch",
+      "explanation": "Kritik an der passiven Konsumhaltung der Gesellschaft gegenüber Medien. Fordert zum gedankenlosen Konsum statt kritischer Reflexion auf." 
+    }
     ],
     "tags": [
       "rock",
@@ -118,11 +122,16 @@
       "musical": "Der Song verbindet traditionelle brasilianische Melodieführung mit modernen Indie-Pop-Elementen und zeigt den Einfluss der MPB (Música Popular Brasileira) auf zeitgenössische Künstler."
     },
     "idiomatic_expressions": [
-      {
-        "original": "A maldade do tempo",
-        "translated": "Die Bosheit der Zeit",
-        "explanation": "Ein poetischer Ausdruck, der die Zeit als aktiven, manchmal grausamen Akteur personifiziert, der Beziehungen verändern oder zerstören kann."
-      }
+    {
+      "original": "A maldade do tempo",
+      "translated": "Die Bosheit der Zeit",
+      "explanation": "Poetische Personifizierung der Zeit als destruktive Kraft, die Beziehungen und Gefühle verändert oder zerstört. Typisch für die melancholische Sprache der brasilianischen Populärmusik." 
+    },
+    {
+      "original": "mudo o lado da cama",
+      "translated": "ich wechsle die Seite des Bettes",
+      "explanation": "Brasilianische Redewendung für nächtliche Unruhe und Schlaflosigkeit. Beschreibt das rastlose Verhalten von jemandem, der nicht zur Ruhe findet." 
+    }
     ],
     "tags": [
       "indie-pop",
@@ -145,21 +154,21 @@
       "youtube": "https://www.youtube.com/watch?v=DQWR45AhAQw",
       "spotify": "https://open.spotify.com/track/7i3Np2zIt2egRQz8iyvFUv?si=234c16b56b4348ba"
     },
-    "description": "Mit ironischem Unterton erzählt der Song von einer Strand-Sirene, die zwischen Glück und Hunger pendelt – ein kraftvoller Mix aus Reggae-, Rock- und Pop-Einflüssen.",
+    "description": "\"A Novidade\" ist eine sozialkritische Reggae-Rock-Ballade, die durch die Metapher einer Meerjungfrau am Strand die krassen sozialen Gegensätze Brasiliens thematisiert. Zwischen poetischer Schönheit und existenzieller Not entfaltet sich eine kraftvolle Gesellschaftskritik.", 
     "cultural_context": {
       "historical": "Os Paralamas do Sucesso, gegründet 1977, sind eine der langlebigsten und einflussreichsten Bands Brasiliens. Sie waren Pioniere bei der Integration von Reggae und brasilianischen Rhythmen in die Rockmusik.",
-      "musical": "Der Song \"A Novidade\" entstand in Zusammenarbeit mit Gilberto Gil und kombiniert Reggae-Rhythmen mit sozialkritischen Texten. Er thematisiert die sozialen Ungleichheiten in Brasilien durch die Metapher einer Meerjungfrau am Strand."
+      "musical": "\"A Novidade\" entstand in Zusammenarbeit mit Gilberto Gil und kombiniert Reggae-Rhythmen mit sozialkritischen Texten. Die Meerjungfrau-Metapher thematisiert die extremen sozialen Ungleichheiten Brasiliens zwischen Luxus und Hunger."
     },
     "idiomatic_expressions": [
       {
         "original": "A novidade veio dar à praia",
         "translated": "Die Neuigkeit kam an den Strand",
-        "explanation": "Eine Metapher, die das Anspülen einer Meerjungfrau am Strand beschreibt, aber gleichzeitig auf das Auftauchen von Neuigkeiten oder Sensationen in der Gesellschaft anspielt."
+        "explanation": "Brasilianische Redewendung für das plötzliche Auftauchen von etwas Aufsehen erregendem. Spielt mit der Doppeldeutigkeit zwischen wörtlichem 'Anspülen' und gesellschaftlicher 'Sensation'."
       },
       {
         "original": "De um lado este carnaval, de outro a fome total",
         "translated": "Auf der einen Seite dieser Karneval, auf der anderen Seite der absolute Hunger",
-        "explanation": "Ein starker Kontrast, der die soziale Ungleichheit in Brasilien beschreibt - Freude und Fest neben extremer Armut, ein wiederkehrendes Thema in der brasilianischen Kultur."
+        "explanation": "Zentrale Metapher für Brasiliens soziale Ungleichheit: Der Karneval symbolisiert Überfluss und Freude, während 'fome total' die extreme Armut repräsentiert - ein wiederkehrendes Thema der brasilianischen Sozialkritik."
       }
     ],
     "tags": [
@@ -193,7 +202,12 @@
       {
         "original": "Olha o dedo",
         "translated": "Schau den Finger",
-        "explanation": "Ein humorvoller Ausdruck mit Doppeldeutigkeit, der vordergründig über die Nützlichkeit des Fingers spricht, aber auch als Anspielung auf obszöne Gesten verstanden werden kann - typisch für den Humor in der Gaucho-Kultur."
+        "explanation": "Humorvoller Ausdruck mit Doppeldeutigkeit, der vordergründig über die Nützlichkeit des Fingers spricht, aber auch als Anspielung auf obszöne Gesten verstanden werden kann - typisch für den Humor in der Gaucho-Kultur."
+      },
+      {
+        "original": "pai de todos, fura bolo",
+        "translated": "Vater aller, sticht den Kuchen",
+        "explanation": "Humorvolle Bezeichnung für den Zeigefinger, der traditionell zum Kosten und Prüfen von Speisen verwendet wird. Typisch für die volkstümliche, augenzwinkernde Sprache der Gaucho-Musik."
       }
     ],
     "tags": [
@@ -218,12 +232,23 @@
       "youtube": "https://www.youtube.com/watch?v=CisPqC9L3QQ",
       "spotify": "https://open.spotify.com/track/0pBYqzJf83ilL7LSe8GATw?si=4ac5dadc07bc45a4"
     },
-    "description": "Ein romantisches Klanggemälde: Mit Mal-Metaphern entfaltet die Band die Sehnsucht, die Liebe künstlerisch zu konservieren. Die ruhige Basslinie und poetische Lyrics machen „Acrilic on Canvas“ zum verträumten Liebeslied.",
+    "description": "Eine melancholische Ballade der brasilianischen Rockband Legião Urbana über Sehnsucht, verlorene Liebe und die Kunst der Erinnerung. Das Lied verwendet Malerei als Metapher für den Versuch, eine vergangene Beziehung zu rekonstruieren.",
     "cultural_context": {
-      "historical": "Die Musik von Legiao Urbana ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Acrilic on Canvas\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Legião Urbana war eine der einflussreichsten brasilianischen Rockbands der 1980er und 1990er Jahre, angeführt von Renato Russo. Die Band prägte eine Generation und thematisierte oft existenzielle und gesellschaftliche Fragen.",
+      "musical": "Der Song zeigt die charakteristische poetische und introspektive Seite der Legião Urbana, mit melancholischen Melodien und metaphorisch reichen Texten, typisch für den brasilianischen Rock der Zeit."
     },
-    "idiomatic_expressions": [],
+    "idiomatic_expressions": [
+      {
+        "expression": "amor-perfeito",
+        "translation": "Schöngesicht",
+        "explanation": "Botanischer Name einer Blume (Viola tricolor), symbolisch für perfekte oder ideale Liebe verwendet"
+      },
+      {
+        "expression": "não-te-esqueças-de-mim", 
+        "translation": "Vergissmeinnicht",
+        "explanation": "Botanischer Name einer Blume, symbolisch für Erinnerung und das Nicht-Vergessen-Werden verwendet"
+      }
+    ],
     "tags": [
       "brasilianisch",
       "populär",
@@ -247,8 +272,8 @@
     },
     "description": "In Devolva‑Me bittet Adriana Calcanhotto den Ex, ihr Briefe zu verbrennen und ihr Geschenk zurückzugeben. Die sparsame Gitarrenbegleitung und ihr kristallklarer Gesang verleihen dem Titel eine verletzliche Würde.",
     "cultural_context": {
-      "historical": "Die Musik von Adriana Calcanhotto ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Devolva-me\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Adriana Calcanhotto ist eine bedeutende brasilianische Singer-Songwriterin, die in den 1990er Jahren bekannt wurde und zur neuen Generation der MPB (Música Popular Brasileira) gehört. Sie ist bekannt für ihre poetischen und introspektiven Texte.",
+      "musical": "Der Song zeigt Calcanhotto's charakteristischen minimalistischen Stil mit sparsamen Arrangements und klarem, ausdrucksstarkem Gesang. Ihre Musik verbindet Elemente der Bossa Nova mit zeitgenössischer brasilianischer Popmusik."
     },
     "idiomatic_expressions": [],
     "tags": [
@@ -273,16 +298,10 @@
     },
     "description": "Ein poetischer Song über den magischen Moment des ersten Blicks: Verspielte Gitarren und eine träumerische Atmosphäre machen „Ali“ zum geheimen Favoriten unter Fans.",
     "cultural_context": {
-      "historical": "Die Musik von Skank ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Ali\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Skank ist eine der erfolgreichsten brasilianischen Rockbands, gegründet 1991 in Belo Horizonte. Die Band prägte den brasilianischen Alternative Rock der 1990er und 2000er Jahre und erreichte sowohl kommerziellen Erfolg als auch kritische Anerkennung.",
+      "musical": "Der Song zeigt Skank's charakteristische Mischung aus Rock, Pop und karibischen Einflüssen, besonders Reggae. Die poetischen, introspektiven Texte und die melodischen Gitarrenarrangements sind typisch für den Stil der Band."
     },
-    "idiomatic_expressions": [
-      {
-        "original": "Ela: Alô?",
-        "translated": "Übersetzung würde hier stehen",
-        "explanation": "Dieser Ausdruck zeigt typische brasilianische Sprachwendungen und kulturelle Nuancen, die in der direkten Übersetzung oft verloren gehen."
-      }
-    ],
+    "idiomatic_expressions": [],
     "tags": [
       "brasilianisch",
       "populär",
@@ -305,10 +324,16 @@
     },
     "description": "Ein romantischer Indierock-Klassiker, in dem die Band mit schlichten Akkorden und Bruno Bells verletzlichem Gesang die nahezu ideale Liebesfigur „Aline“ besingt.",
     "cultural_context": {
-      "historical": "Die Musik von Los Hermanos ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Aline\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Los Hermanos war eine einflussreiche brasilianische Indie-Rock-Band aus Rio de Janeiro, aktiv von 1997 bis 2007. Die Band um Marcelo Camelo prägte eine Generation junger Brasilianer und gilt als Wegbereiter des brasilianischen Alternative Rock.",
+      "musical": "Der Song zeigt Los Hermanos' charakteristischen Stil: melodiösen Indie-Rock mit introspektiven, poetischen Texten und Marcelo Camelos markanter Stimme. Die Band kombinierte Rock-Elemente mit brasilianischer Sensibilität und romantischen Balladen."
     },
-    "idiomatic_expressions": [],
+    "idiomatic_expressions": [
+      {
+        "expression": "sete palmos do chão",
+        "translation": "sieben Fuß unter der Erde",
+        "explanation": "Brasilianische idiomatische Wendung für 'tot sein' oder 'begraben sein', entspricht dem deutschen 'sechs Fuß unter der Erde'"
+      }      
+    ],
     "tags": [
       "brasilianisch",
       "populär",
@@ -332,10 +357,21 @@
     },
     "description": "Mit charmanten Alltagsbildern (blaue Turnschuhe, Aufzugsfahrt) und nüchternem Erzählton präsentiert Nando Reis einen modernen Popsong über das Verliebtsein im urbanen Umfeld.",
     "cultural_context": {
-      "historical": "Die Musik von Nando Reis ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"All Star\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Nando Reis ist ein bedeutender brasilianischer Musiker, ehemaliges Mitglied der einflussreichen Band Titãs und erfolgreicher Solokünstler seit den 1990er Jahren. Er gilt als einer der wichtigsten Songwriter der brasilianischen Popmusik.", 
+      "musical": "Der Song zeigt Nando Reis' charakteristischen Stil: melodiöser Pop-Rock mit poetischen, alltäglichen Texten und eingängigen Melodien. Seine Musik verbindet brasilianische Sensibilität mit internationalem Pop-Appeal."
     },
-    "idiomatic_expressions": [],
+    "idiomatic_expressions": [
+      {
+        "expression": "All Star",
+        "translation": "All Star",
+        "explanation": "Bezieht sich auf die kultigen Converse All Star Turnschuhe, die in Brasilien besonders in den 1990er/2000er Jahren sehr beliebt waren und Jugendkultur symbolisierten"
+      },
+      {
+        "expression": "Laranjeiras",
+        "translation": "Laranjeiras",
+        "explanation": "Nobles Wohnviertel in Rio de Janeiro, bekannt für seine Bohème-Atmosphäre und als Wohnort von Künstlern und Intellektuellen"
+      }      
+    ],
     "tags": [
       "brasilianisch",
       "populär",
@@ -358,8 +394,8 @@
     },
     "description": "Ein Klassiker mit klarer Botschaft: Liebe und Lust sind untrennbar. Mit treibender Bassline und provokativen Lyrics feierte Rita Lee in den 1980ern die sexuelle Befreiung.",
     "cultural_context": {
-      "historical": "Die Musik von Rita Lee ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Amor e Sexo\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Rita Lee ist die 'Rainha do Rock Brasileiro' (Königin des brasilianischen Rock), ehemalige Sängerin der legendären Tropicália-Band Os Mutantes und eine der einflussreichsten brasilianischen Künstlerinnen. Sie war Pionierin der sexuellen Befreiung und Frauenrechte in den 1970er und 1980er Jahren.",
+      "musical": "Der Song aus den 1980ern zeigt Rita Lees charakteristischen Stil: eingängiger Pop-Rock mit provokanten, direkten Texten und starken Basslines. Als eine der ersten brasilianischen Künstlerinnen thematisierte sie offen Sexualität und stellte gesellschaftliche Tabus in Frage."
     },
     "idiomatic_expressions": [],
     "tags": [
@@ -385,8 +421,8 @@
     },
     "description": "In dieser gefühlvollen Ballade besingt Frejat (bekannt als Sänger von Barão Vermelho) die Kraft der Liebe, stets neu zu beginnen. Mit sanftem Gitarrenarrangement und warmem, rauchigem Gesang vermittelt er die Hoffnung, dass sich Zuneigung auch nach Krisen wiederentfalten kann.",
     "cultural_context": {
-      "historical": "Die Musik von Frejat ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Amor pra Recomeçar\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Frejat (Roberto Frejat) war Frontmann der legendären brasilianischen Rockband Barão Vermelho, einer der einflussreichsten Bands des Brock (brasilianischer Rock) der 1980er Jahre. Nach dem Ausstieg aus der Band 1989 begann er eine erfolgreiche Solokarriere mit einem weicheren, balladenorientierten Stil.", 
+      "musical": "Der Song zeigt Frejats charakteristische Soloarbeit: gefühlvolle Balladen mit poetischen Texten über Liebe und Hoffnung, begleitet von sanften Gitarrenarrangements. Sein warmer, rauchiger Gesangsstil unterscheidet sich deutlich von seiner härteren Rock-Ära bei Barão Vermelho."
     },
     "idiomatic_expressions": [],
     "tags": [
@@ -412,8 +448,8 @@
     },
     "description": "Ein hymnischer Pop-Rock-Track über Sehnsucht und Zusammengehörigkeit: Die Band präsentiert einen eingängigen Refrain, der im brasilianischen Popsong­kanon zum Mitsingen einlädt.",
     "cultural_context": {
-      "historical": "Os Paralamas do Sucesso, gegründet 1977, sind eine der langlebigsten und einflussreichsten Bands Brasiliens. Sie waren Pioniere bei der Integration von Reggae und brasilianischen Rhythmen in die Rockmusik.",
-      "musical": "Der Song \"A Novidade\" entstand in Zusammenarbeit mit Gilberto Gil und kombiniert Reggae-Rhythmen mit sozialkritischen Texten. Er thematisiert die sozialen Ungleichheiten in Brasilien durch die Metapher einer Meerjungfrau am Strand."
+      "historical": "Os Paralamas do Sucesso, gegründet 1977 in Rio de Janeiro, sind eine der langlebigsten und einflussreichsten Bands Brasiliens. Die Band um Herbert Vianna prägte den brasilianischen Rock der 1980er und 1990er Jahre und beeinflusste Generationen von Musikern.",
+      "musical": "Der Song zeigt die charakteristische Mischung der Paralamas aus Pop-Rock, Reggae und brasilianischen Rhythmen. Mit eingängigen Melodien und emotionalen Texten über Liebe und Sehnsucht repräsentiert er den zugänglichen, radiofähigen Sound der Band aus den 1990er Jahren."
     },
     "idiomatic_expressions": [],
     "tags": [
@@ -440,8 +476,8 @@
     },
     "description": "Eine zarte Ballade über unausgesprochene Gefühle, in der Santos’ sanfte Stimme und sparsame Gitarrenbegleitung das subtile, fast abstrakte Geständnis „ich mag dich sehr, aber verstecke es“ tragen.",
     "cultural_context": {
-      "historical": "Die Musik von Lulu Santos ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Apenas mais uma de amor\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Lulu Santos ist ein renommierter brasilianischer Singer-Songwriter, der seit den frühen 1980er Jahren aktiv ist. Er gilt als einer der wichtigsten Vertreter des brasilianischen Pop-Rock und hat über vier Jahrzehnte hinweg die brasilianische Musikszene geprägt, besonders mit romantischen Balladen und nachdenklichen Texten.",
+      "musical": "Der Song zeigt Lulu Santos' charakteristischen Stil: eine minimalistische, intime Ballade mit poetischen, introspektiven Texten über Liebe und Emotionen. Seine sanfte Stimme und die sparsamen Arrangements sind typisch für seine romantischen Kompositionen der 1980er und 1990er Jahre."
     },
     "idiomatic_expressions": [],
     "tags": [
@@ -464,10 +500,10 @@
       "youtube": "https://www.youtube.com/watch?v=xT8HIiFQ8Y0",
       "spotify": "https://open.spotify.com/track/4LhxdvP3lfgH3ciOyO1BX1?si=02de05fc26184ba4"
     },
-    "description": "Poetisches Kinderlied über die Magie des Zeichnens mit Wasserfarben, das durch seine einfache Melodie und fantasievolle Texte in Brasilien und darüber hinaus unvergesslich wurde.",
+    "description": "Eine der bekanntesten und beliebtesten brasilianischen Kinderlieder aller Zeiten. Toquinhos poetische Ode an die Fantasie und Kreativität wurde zum zeitlosen Klassiker, der Generationen von Brasilianern geprägt hat und auch international große Anerkennung fand.",
     "cultural_context": {
-      "historical": "Die Musik von Toquinho ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Aquarela\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Toquinho ist einer der bedeutendsten brasilianischen Komponisten und Singer-Songwriter, bekannt für seine langjährige Zusammenarbeit mit Vinícius de Moraes. 'Aquarela' (1983) wurde zu einem der wichtigsten brasilianischen Kinderlieder und ist ein kulturelles Phänomen, das in Schulen, Familien und im kollektiven Gedächtnis fest verankert ist.",
+      "musical": "Der Song zeigt Toquinhos charakteristischen Stil: eine einfache, eingängige Melodie kombiniert mit poetischen, bildhaften Texten. Die sanfte Gitarrenbegleitung und die kindgerechte, aber anspruchsvolle Lyrik machten das Lied zu einem Meilenstein der brasilianischen Kindermusik und MPB (Música Popular Brasileira)."
     },
     "idiomatic_expressions": [],
     "tags": [
@@ -490,10 +526,10 @@
       "youtube": "https://www.youtube.com/watch?v=WTNdpyLHhWE",
       "spotify": "https://open.spotify.com/track/0uLbZXBvgSTXJZ7QGgT2cn?si=0aeb863625d74af1"
     },
-    "description": "Nachdenklicher Indierock über bittere Erinnerungen und den Versuch, alte Gefühle loszuwerden. Die melancholische Gitarre und Rodrigo Amarante­s eindringlicher Gesang zeichnen das Lied als introspektives Highlight.",
+    "description": "Nachdenklicher Indierock über bittere Erinnerungen und den Versuch, alte Gefühle loszuwerden. Die melancholische Gitarre und Marcelo Camelos eindringlicher Gesang zeichnen das Lied als introspektives Highlight.",
     "cultural_context": {
-      "historical": "Die Musik von Los Hermanos ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Azedume\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Los Hermanos war eine einflussreiche brasilianische Indie-Rock-Band aus Rio de Janeiro, aktiv von 1997 bis 2007. Die Band um Marcelo Camelo prägte eine Generation junger Brasilianer und gilt als Wegbereiter des brasilianischen Alternative Rock.",
+      "musical": "Der Song zeigt Los Hermanos' charakteristischen melancholischen Indie-Rock-Stil mit introspektiven, poetischen Texten über Liebe und Verlust. Die minimalistischen Gitarrenarrangements und Camelos markante, emotionale Stimme sind typisch für die Band."
     },
     "idiomatic_expressions": [],
     "tags": [
@@ -519,14 +555,29 @@
     },
     "description": "Diese humorvolle Samba-Pop-Nummer von Baia & Rockboys erzählt die skurrile Begegnung mit einer „verrückten“ Frau („doida“) im Strandkontext. Der leichte Groove und die witzigen Texte fangen das frivole Treiben in Rio de Janeiro der 1970er ein.",
     "cultural_context": {
-      "historical": "Die Musik von Baia & Rockboys ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Baia e a Doida\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Baia & Rockboys war eine brasilianische Band aus den 1970er Jahren, die den typischen Samba-Pop-Stil dieser Ära repräsentierte. Die Band war Teil der Bewegung, die brasilianische Rhythmen mit Rock-Elementen verband und das entspannte Lebensgefühl Rio de Janeiros dieser Zeit widerspiegelte.",
+      "musical": "Der Song zeigt den charakteristischen Samba-Pop der 1970er Jahre mit leichtem Groove, humorvollen Texten über das Strandleben und typisch brasilianischer Leichtigkeit. Die Musik fängt die frivole, entspannte Atmosphäre des damaligen Rio de Janeiro ein."
     },
     "idiomatic_expressions": [
       {
-        "original": "Peraê!",
-        "translated": "Übersetzung würde hier stehen",
-        "explanation": "Dieser Ausdruck zeigt typische brasilianische Sprachwendungen und kulturelle Nuancen, die in der direkten Übersetzung oft verloren gehen."
+        "expression": "Peraê!",
+        "translation": "Moment mal!",
+        "explanation": "Typisch brasilianischer umgangssprachlicher Ausruf, der 'warte mal' oder 'halt' bedeutet - sehr charakteristisch für die informelle brasilianische Sprache"
+      },
+      {
+        "expression": "o coração quase me vem na boca",
+        "translation": "das Herz kommt mir fast in den Mund",
+        "explanation": "Brasilianische Redewendung für einen großen Schreck oder plötzliche Überraschung - entspricht dem deutschen 'das Herz fällt mir in die Hose'"
+      },
+      {
+        "expression": "fechou um negócio da China",
+        "translation": "hat ein Geschäft aus China abgeschlossen",
+        "explanation": "Brasilianische Redewendung für 'ein fantastisches, sehr profitables Geschäft machen' - bezieht sich auf die Vorstellung von exotischen, wertvollen Geschäften"
+      },
+      {
+        "expression": "a coisa tava russa",
+        "translation": "die Sache war russisch",
+        "explanation": "Brasilianische Redewendung für 'die Situation war schwierig oder kompliziert' - wahrscheinlich aus der Zeit des Kalten Krieges stammend"
       }
     ],
     "tags": [
@@ -552,8 +603,8 @@
     },
     "description": "Dieses kraftvolle Rock-Ballade-Duett des Barão Vermelho besingt ein unerschütterliches Gefühl: Die ekstatische Hingabe („Amor, meu grande amor“) und die härtere Gitarrenbegleitung stehen beispielhaft für die Rebellion der brasilianischen Rockszene der 1980er Jahre.",
     "cultural_context": {
-      "historical": "Die Musik von Barao Vermelho ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Amor, meu grande amor\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Barão Vermelho war eine der einflussreichsten brasilianischen Rockbands der 1980er Jahre, angeführt von dem legendären Sänger Cazuza. Die Band prägte den brasilianischen Rock und wurde zum Symbol einer rebellischen Generation, die gegen die Militärdiktatur und gesellschaftliche Konventionen aufbegehrte.",
+      "musical": "Der Song zeigt die charakteristische Mischung aus kraftvollem Rock und emotionaler Ballade, die Barão Vermelho berühmt machte. Mit poetischen, intensiven Texten über Liebe und Leidenschaft und Cazuzas markanter, rauchiger Stimme repräsentiert er den Höhepunkt des brasilianischen Rock der 1980er Jahre."
     },
     "idiomatic_expressions": [],
     "tags": [
@@ -578,10 +629,26 @@
     },
     "description": "Eine rockige Samba-Fusion, in der Barão Vermelho‑Frontmann Cazuza das Bild einer ekstatischen Nachtfrau zeichnet – zwischen Erotik und Feierlaune pendelnd.",
     "cultural_context": {
-      "historical": "Die Musik von Barao Vermelho ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Puro Extase\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Barão Vermelho war eine der einflussreichsten brasilianischen Rockbands der 1980er Jahre, angeführt von dem legendären Sänger Cazuza. Die Band war bekannt für ihre provokanten Texte über Sexualität, Drogen und das Nachtleben und wurde zum Sprachrohr der urbanen Jugend während der politischen Öffnung Brasiliens.", 
+      "musical": "Der Song verkörpert Cazuzas charakteristischen Stil: rockige Rhythmen kombiniert mit expliziten Texten über das Nachtleben der 1980er Jahre. Die Mischung aus Rock und brasilianischen Elementen, gepaart mit Cazuzas markanter, rauchiger Stimme, machte Barão Vermelho zu Pionieren des brasilianischen Rock."
     },
-    "idiomatic_expressions": [],
+    "idiomatic_expressions": [
+      {
+        "expression": "Galo cantou",
+        "translation": "Der Hahn hat gekräht",
+        "explanation": "Brasilianische Redewendung für 'die Morgendämmerung bricht an' oder 'es ist sehr spät/früh geworden' - typisch für das Nachtleben-Vokabular"
+      },
+      {
+        "expression": "rindo à toa",
+        "translation": "grundlos lachend",
+        "explanation": "Brasilianische Umgangssprache für 'ohne ersichtlichen Grund lachen' - oft im Kontext von Drogenrausch oder extremer Euphorie verwendet"
+      },
+      {
+        "expression": "roupa montada",
+        "translation": "zusammengestellte Kleidung",
+        "explanation": "Brasilianischer Slang für 'sorgfältig ausgewähltes, auffälliges Outfit' - besonders im Kontext des Nachtlebens und der Mode der 1980er Jahre"
+      }
+    ],
     "tags": [
       "brasilianisch",
       "populär",
@@ -604,10 +671,16 @@
     },
     "description": "Eine zärtliche Liebeserklärung, die intime Details (Bett, Tisch, Kuss auf den Lippen) in sinnliche Bilder fasst. Der sanfte Groove macht den Song zu einem romantischen Evergreen.",
     "cultural_context": {
-      "historical": "Die Musik von Roberto Carlos ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Cama e Mesa\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Roberto Carlos ist der unangefochtene 'Rei da Música Romântica Brasileira' (König der brasilianischen Romantikmusik) und eine der wichtigsten Figuren der brasilianischen Popmusik seit den 1960er Jahren. Mit über 70 Millionen verkauften Alben weltweit ist er eine der erfolgreichsten lateinamerikanischen Künstler aller Zeiten.",
+      "musical": "Der Song repräsentiert Roberto Carlos' charakteristischen Stil: sinnliche, romantische Balladen mit expliziten, aber poetischen Texten über Liebe und Intimität. Seine weiche, melodische Stimme und die orchestralen Arrangements machten ihn zum Meister der brasilianischen Liebeslieder."
     },
-    "idiomatic_expressions": [],
+    "idiomatic_expressions": [
+      {
+        "expression": "na justa medida",
+        "translation": "im richtigen Maß",
+        "explanation": "Brasilianische Redewendung für 'in der perfekten Balance' oder 'genau richtig' - oft verwendet, um Harmonie und Ausgeglichenheit zu beschreiben"
+      }
+    ],
     "tags": [
       "brasilianisch",
       "populär",
@@ -629,12 +702,18 @@
       "youtube": "https://www.youtube.com/watch?v=5DLZdHz0TJ8",
       "spotify": "https://open.spotify.com/track/7ue3vDtaxcToVyzbyloSyQ?si=f05bddd870024bf9"
     },
-    "description": "Ein kraftvolles Drama-Pop-Stück, das das Gefühlschaos einer jungen Frau im Spannungsfeld zwischen Abhängigkeit und Selbstbehauptung als hymnische Befreiung inszeniert.",
+    "description": "Ein eindringlicher Rock-Song über häusliche Gewalt und Trauma. Die Band thematisiert die Erfahrungen einer 17-jährigen Person, die Missbrauch erlebt hat, mit kraftvollen Arrangements und emotionalen Texten über Angst, Unterwerfung und psychische Narben.", 
     "cultural_context": {
-      "historical": "Die Musik von Nenhum de Nós ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Camila, Camila\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Nenhum de Nós ist eine der einflussreichsten brasilianischen Rockbands, 1986 in Porto Alegre gegründet. Die Band um Thedy Corrêa prägte den gaúcho Rock und ist bekannt für introspektive, gesellschaftskritische Texte, die oft schwierige Themen wie Gewalt und soziale Probleme behandeln.",
+       "musical": "Der Song zeigt Nenhum de Nós' charakteristischen Stil: emotionaler Rock mit melodischen Passagen und kraftvollen, dramatischen Momenten. Die Band kombiniert eingängige Melodien mit schweren, gesellschaftskritischen Themen und schafft so eindringliche musikalische Erfahrungen."
     },
-    "idiomatic_expressions": [],
+    "idiomatic_expressions": [
+      {
+        "expression": "baixava a minha cabeça pra tudo",
+        "translation": "ich senkte meinen Kopf für alles",
+        "explanation": "Brasilianische Redewendung für 'sich allem unterwerfen', 'alles passiv akzeptieren' - drückt Unterwürfigkeit und Machtlosigkeit aus, besonders im Kontext von Missbrauch"
+      }
+    ],
     "tags": [
       "brasilianisch",
       "populär",
@@ -657,8 +736,8 @@
     },
     "description": "Poetische Metaphern über eine nächtliche „Kavalkade“ der Liebe. Fließende Gitarren und Carlos’ warme Stimme zeichnen den Ritt zwischen Leidenschaft und Zärtlichkeit.",
     "cultural_context": {
-      "historical": "Die Musik von Roberto Carlos ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Cavalgada\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Roberto Carlos ist der unangefochtene 'Rei da Música Romântica Brasileira' (König der brasilianischen Romantikmusik) und eine der wichtigsten Figuren der brasilianischen Popmusik seit den 1960er Jahren. Seine expliziten aber poetischen Liebeslieder prägten Generationen von Brasilianern und machten Intimität zu einem akzeptierten Thema in der Popmusik.", 
+      "musical": "Der Song zeigt Roberto Carlos' Meisterschaft bei sinnlichen Balladen: poetische Metaphorik (Reiten als Liebesakt) kombiniert mit orchestralen Arrangements und seiner charakteristischen warmen, melodischen Stimme. Seine Fähigkeit, explizite Themen in elegante, poetische Sprache zu kleiden, machte ihn zum Meister der brasilianischen Liebeslieder."
     },
     "idiomatic_expressions": [],
     "tags": [
@@ -682,18 +761,12 @@
       "youtube": "https://www.youtube.com/watch?v=yfj7Gv8mWN8",
       "spotify": "https://open.spotify.com/track/7IbUXpm7aKbUwaOovQAImc?si=2b846973f777467f"
     },
-    "description": "Ein relaxter Reggae-Pop mit sozialem Unterton: Der Sänger fragt nach dem Ort des geliebten Menschen und zeigt so, wie Liebe über alle Distanzen hinweg verbindet.",
+    "description": "Eine melancholische Reggae-Ballade über verlorene Liebe und Sehnsucht. Cidade Negra kombiniert entspannte Reggae-Rhythmen mit emotionalen Texten über die Suche nach einem geliebten Menschen und die Einzigartigkeit wahrer Liebe.",
     "cultural_context": {
-      "historical": "Die Musik von Cidade Negra ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Onde voce mora\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Cidade Negra ist eine der wichtigsten brasilianischen Reggae-Bands, gegründet 1986 in Rio de Janeiro. Die Band war Pionierin des brasilianischen Reggae und beeinflusste maßgeblich die Reggae-Szene in Brasilien. Sie verbinden jamaikanische Reggae-Traditionen mit brasilianischer Sensibilität und Rhythmen.",
+      "musical": "Der Song zeigt Cidade Negras charakteristischen Stil: entspannter Reggae mit melodischen Gitarren, warmen Vocals und emotionalen, poetischen Texten über Liebe und Verlust. Die Band ist bekannt für ihre Fähigkeit, Reggae-Rhythmen mit brasilianischer Romantik zu verbinden."
     },
-    "idiomatic_expressions": [
-      {
-        "original": "Eu tive que ir embora\nMesmo querendo ficar\nAgora eu sei\nE eu sei que eu fui embora\nE agora eu quero você\nDe volta pra mim\nAmor igual ao teu\nEu nunca mais terei (nunca mais terei, nuca mais terei)\nAmor que eu nunca vi igual\nQue eu nunca mais verei (nunca mais verei, nuca mais verei)\nAmor que não se pede\nAmor que não se mede\nQue não se repete\nAmor que não se pede\nAmor que não se mede\nQue não se repete\nAmor igual ao teu\nEu nunca mais terei (nunca mais terei, nuca mais terei)\nAmor que eu nunca vi igual\nQue eu nunca mais verei (nunca mais verei)\nAmor que não se pede\nAmor que não se mede\nQue não se repete\n'Cê vai chegar em casa\nEu quero abrir a porta\nAonde você mora?",
-        "translated": "Übersetzung würde hier stehen",
-        "explanation": "Dieser Ausdruck zeigt typische brasilianische Sprachwendungen und kulturelle Nuancen, die in der direkten Übersetzung oft verloren gehen."
-      }
-    ],
+    "idiomatic_expressions": [],
     "tags": [
       "brasilianisch",
       "populär",
@@ -717,10 +790,21 @@
     },
     "description": "Mit seinem stark rhythmisierenden Textfluss und den sich wiederholenden, leicht variierenden Endsilben zeigt Construção eindrucksvoll Chico Buarques sozialkritische Erzählkunst. Der Song beschreibt den Tag eines Bauarbeiters, der „gegen die Fahrtrichtung“ stirbt, und kritisiert so eindringlich die Ausbeutung der Arbeiterklasse.",
     "cultural_context": {
-      "historical": "Die Musik von Chico Buarque ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Construcao\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "1971 während der brasilianischen Militärdiktatur geschrieben, ist 'Construção' eines der wichtigsten Protestlieder der MPB. Chico Buarque kritisierte die Dehumanisierung der Arbeiter während des 'Milagre Econômico' (Wirtschaftswunder), als massive Bauprojekte auf Kosten der Arbeiterrechte vorangetrieben wurden. Die Zensur zwang ihn zu metaphorischer Sprache.",
+      "musical": "Das Lied zeigt Chico Buarques geniale poetische Struktur: drei Strophen mit identischem Versmaß, aber wechselnden proparoxytonen Endwörtern, die einen hypnotischen Effekt erzeugen. Die komplexe Wortspielerei und die eindringliche Melodie machen es zu einem Meisterwerk der brasilianischen Liedkomposition und des politischen Songs."
     },
-    "idiomatic_expressions": [],
+    "idiomatic_expressions": [
+      {
+        "expression": "Morreu na contramão atrapalhando o tráfego",
+        "translation": "Er starb gegen die Fahrtrichtung und störte den Verkehr",
+        "explanation": "Kraftvolle Metapher für die gesellschaftliche Gleichgültigkeit gegenüber dem Tod von Arbeitern - ihr Leben wird nur als Störung des 'normalen Ablaufs' betrachtet"
+      },
+      {
+        "expression": "feito um pacote flácido",
+        "translation": "wie ein lebloses Paket",
+        "explanation": "Drastische Dehumanisierung des toten Arbeiters, der zu einem leblosen Gegenstand reduziert wird - zentrale Kritik an der Entmenschlichung der Arbeiterklasse"
+      }
+    ],
     "tags": [
       "brasilianisch",
       "populär",
@@ -743,10 +827,26 @@
     },
     "description": "Ein zutiefst bewegender Gaúcho-Chamamé über den frühen Verlust seiner Mutter. Teixeirinhas rauer Erzählstil und die melancholische Melodie machen das Lied zu einer berührenden Trauerklage.",
     "cultural_context": {
-      "historical": "Die Musik von Teixirinha ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Coracao de Luto\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Teixirinha (1927-1985) war einer der wichtigsten Vertreter der gaúcho-Musik aus Rio Grande do Sul. Als 'Rei do Disco' bekannt, verkaufte er über 50 Millionen Platten und prägte die süddeutsche brasilianische Volksmusik. Seine Lieder thematisierten oft das harte ländliche Leben und persönliche Tragödien der einfachen Menschen.",
+      "musical": "Der Song ist ein typischer Chamamé, ein traditioneller Rhythmus aus der Region Rio Grande do Sul mit Einflüssen aus Argentinien und Uruguay. Teixeirinhas charakteristischer, rauer Gesangsstil und die melancholische Akkordeonbegleitung repräsentieren die authentische gaúcho-Musik und deren Verbindung zu persönlichem Leid und ländlichen Geschichten."
     },
-    "idiomatic_expressions": [],
+    "idiomatic_expressions": [
+      {
+        "expression": "coração de luto",
+        "translation": "trauerndes Herz",
+        "explanation": "Brasilianische Metapher für anhaltende, tiefe Trauer - das Herz ist permanent in Trauer gekleidet, wie bei einer traditionellen Trauerzeit"
+      },
+      {
+        "expression": "mãe do coração",
+        "translation": "Mutter, die ich im Herzen trage",
+        "explanation": "Zärtliche brasilianische Bezeichnung für die geliebte, verstorbene Mutter, die emotional für immer im Herzen des Sohnes lebt"
+      },
+      {
+        "expression": "rancho",
+        "translation": "einfaches Haus/Hütte",
+        "explanation": "Typisch süddeutscher Begriff für ein einfaches, ländliches Wohnhaus - charakteristisch für die gaúcho-Kultur und das Leben auf dem Land"
+      }      
+    ],
     "tags": [
       "brasilianisch",
       "populär",
@@ -768,10 +868,10 @@
       "youtube": "https://www.youtube.com/watch?v=fNGkA-SbH_Y",
       "spotify": "https://open.spotify.com/track/1gc1JUDri6u4V4GwpebzQj?si=85be953373494478"
     },
-    "description": "In Deixa Eu Te Amar verbindet Agepê sinnliche Samba-Rhythmen mit beschwörenden Liebesversprechen. Die wiederholte Bitte „Lass mich dich lieben“ und die erotisch-liebkosende Bildsprache („Quero ser teu batom“) machten das Lied in den 1970ern zu einem unvergesslichen Samba-Chanson.",
+    "description": "Eine sinnliche Samba-Ballade voller poetischer Naturmetaphern über Liebe und Verlangen. Agepê verbindet romantische Bildsprache mit expliziten Wünschen und schafft so einen der einprägsamsten brasilianischen Liebeslieder der 1970er Jahre.", 
     "cultural_context": {
-      "historical": "Die Musik von Agepe ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Deixa eu te amar\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Agepê (1942-1995) war einer der wichtigsten brasilianischen Sänger und Komponisten der 1970er Jahre, bekannt für seine sinnlichen Sambas und romantischen Balladen. Er prägte eine Generation mit seinen expliziten aber poetischen Liebesliedern und war ein Pionier bei der Thematisierung von Erotik in der brasilianischen Popmusik.",
+      "musical": "Der Song zeigt Agepês charakteristischen Stil: melodiöser Samba mit romantischen, naturverbundenen Metaphern und sinnlichen Texten. Seine warme, emotionale Stimme und die Fähigkeit, explizite Themen in poetische Sprache zu kleiden, machten ihn zu einem der beliebtesten Romantik-Sänger Brasiliens."
     },
     "idiomatic_expressions": [],
     "tags": [
@@ -797,8 +897,8 @@
     },
     "description": "Eine sanfte Ballade voller nostalgischer Bilder. Roberto Carlos besingt die winzigsten Details einer Beziehung, die ihm nicht aus dem Kopf gehen – ein Inbegriff lateinamerikanischer Romantik.",
     "cultural_context": {
-      "historical": "Die Musik von Roberto Carlos ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Detalhes\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Roberto Carlos ist der unangefochtene 'Rei da Música Romântica Brasileira' (König der brasilianischen Romantikmusik). 'Detalhes' (1971) ist einer seiner größten Hits und gilt als zeitloser Klassiker der brasilianischen Popmusik, der Generationen von Brasilianern geprägt hat und auch international große Anerkennung fand.",
+      "musical": "Der Song repräsentiert Roberto Carlos' Meisterschaft bei introspektiven Liebesliedern: Eine melancholische Ballade mit orchestraler Begleitung und seiner charakteristischen warmen, emotionalen Stimme. Die poetischen, detailreichen Texte über verlorene Liebe machten das Lied zu einem Meilenstein der brasilianischen Romantikmusik."
     },
     "idiomatic_expressions": [],
     "tags": [
@@ -823,10 +923,31 @@
     },
     "description": "Ein feuriger Samba, in dem Martinho da Vila mit verspielten Texten und treibendem Rhythmus das Bild eines Herzens zeichnet, das im Takt der Liebe aus der Reihe tanzt.",
     "cultural_context": {
-      "historical": "Die Musik von Martinho da Vila ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Disritmia\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Martinho da Vila ist einer der größten Sambista-Komponisten Brasiliens und seit den 1960er Jahren eine zentrale Figur des Samba. Geboren 1938, prägte er mit über 40 Alben und Hunderten von Kompositionen die brasilianische Musik und ist bekannt für seine poetischen, raffinierten Texte und sein Engagement für die afro-brasilianische Kultur.",
+      "musical": "Der Song zeigt Martinho da Vilas charakteristischen Stil: melodischer, raffinierter Samba mit poetischen, oft metaphorischen Texten über Liebe und das Leben. Seine Musik verbindet traditionelle Samba-Rhythmen mit anspruchsvollen literarischen Elementen und macht ihn zu einem der respektiertesten Sambistas Brasiliens."
     },
-    "idiomatic_expressions": [],
+    "idiomatic_expressions": [
+      {
+        "expression": "dengo",
+        "translation": "Zärtlichkeit/Schmeichelei",
+        "explanation": "Typisch brasilianischer Begriff für liebevolle, schmeichelnde Zärtlichkeit - besonders im nordöstlichen und Samba-Kontext verwendet"
+      },
+      {
+        "expression": "cafuné",
+        "translation": "Kopfmassage/Kopfstreicheln",
+        "explanation": "Sehr brasilianische Geste der Zärtlichkeit, bei der man jemandem liebevoll durch die Haare streicht - hat keine direkte Entsprechung in anderen Sprachen"
+      },
+      {
+        "expression": "seu nego",
+        "translation": "dein Liebster/Schatz",
+        "explanation": "Zärtliche brasilianische Anrede zwischen Liebenden, ursprünglich aus der afro-brasilianischen Kultur - entspricht 'mein Schatz' oder 'mein Liebster'"
+      },
+      {
+        "expression": "boemia",
+        "translation": "Bohème/Nachtleben",
+        "explanation": "Bezieht sich auf das nächtliche Leben der Samba-Musiker, Bars und das künstlerische Milieu - wichtiger kultureller Kontext im brasilianischen Samba"
+      }      
+    ],
     "tags": [
       "brasilianisch",
       "populär",
@@ -848,12 +969,18 @@
       "youtube": "https://www.youtube.com/watch?v=bY0dFGo-XnQ",
       "spotify": "https://open.spotify.com/track/5toSzfFqh7gfTLGWW3Z8Zv?si=95b2294907f74022"
     },
-    "description": "Ein verspielter Pop-Rock-Track, in dem Rita Lee sich als verführerischer „süßer Vampir“ inszeniert. Trotziger Rhythmus und ihre charakteristische Reibeisenstimme verleihen dem Song eine freche Note.",
+    "description": "Ein verspielter Pop-Rock-Track, in dem Rita Lee sich als verführerischer 'süßer Vampir' inszeniert. Trotziger Rhythmus und ihre charakteristische Reibeisenstimme verleihen dem Song eine freche Note.",
     "cultural_context": {
-      "historical": "Die Musik von Rita Lee ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Doce Vampiro\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Rita Lee ist die 'Rainha do Rock Brasileiro' (Königin des brasilianischen Rock), ehemalige Sängerin der legendären Tropicália-Band Os Mutantes. In ihrer Solokarriere seit den 1970ern war sie Pionierin bei provokanten Themen und der Verbindung von Rock mit brasilianischer Sensibilität, oft mit erotischen und rebellischen Inhalten.",
+      "musical": "Der Song aus den 1980ern zeigt Rita Lees charakteristischen Stil: rockiger Pop mit provokanten, spielerischen Texten und ihrer markanten, rauchigen Stimme. Die Vampir-Metaphorik für Liebe und Leidenschaft ist typisch für ihren Hang zu unkonventionellen, erotischen Themen in eingängigen Melodien."
     },
-    "idiomatic_expressions": [],
+    "idiomatic_expressions": [
+      {
+        "expression": "até me matar",
+        "translation": "bis du mich tötest",
+        "explanation": "Brasilianische Metapher für intensive Leidenschaft oder überwältigendes Gefühl - 'bis zum Tod' als Ausdruck extremer Intensität von Liebe oder Lust"
+      }
+    ],
     "tags": [
       "brasilianisch",
       "populär",
@@ -876,8 +1003,8 @@
     },
     "description": "Euphorischer Stadion-Rock: Fußballmetaphern verbinden sich mit Gitarrenriffs, um die Passion des Spiels zu besingen – Lieblingssong aller Brasilianer am Wochenende.",
     "cultural_context": {
-      "historical": "Die Musik von Skank ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"É uma Partida de Futebol\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Skank ist eine der erfolgreichsten brasilianischen Rockbands, gegründet 1991 in Belo Horizonte. Fußball ist in Brasilien mehr als Sport - es ist kulturelle Identität. Diese Hymne erfasst die Leidenschaft des brasilianischen Volkes für 'o futebol', das Land der fünf Weltmeistertitel und Heimat von Pelé, Ronaldinho und unzähligen Legenden.",
+      "musical": "Der Song zeigt Skank's charakteristische Mischung aus Rock und brasilianischer Leichtigkeit, gepaart mit der universellen Sprache des Fußballs. Die eingängige Melodie und die poetischen Fußballmetaphern machen den Song zu einer Hymne für alle brasilianischen Fußballfans - eine perfekte Verbindung von Musik und der größten kulturellen Passion des Landes."
     },
     "idiomatic_expressions": [],
     "tags": [
@@ -900,12 +1027,38 @@
       "youtube": "https://www.youtube.com/watch?v=bsutUab2fkI",
       "spotify": "https://open.spotify.com/track/6Pa6VpdGS8OfiVOEnNAHHw?si=66df0d677df34a9b"
     },
-    "description": "Die charmante Erzählung einer ungleichen Liebe: Student Eduardo und die ältere, selbstbewusste Mônica treffen sich zufällig und überwinden alle Unterschiede. Das lockere Gitarrenpop-Arrangement und Renato Rusos ironischer Vortrag haben den Song zum brasilianischen Liebesklassiker gemacht.",
+    "description": "Die charmante Erzählung einer ungleichen Liebe: Student Eduardo und die ältere, selbstbewusste Mônica treffen sich zufällig und überwinden alle Unterschiede. Das lockere Gitarrenpop-Arrangement und Renato Russos ironischer Vortrag haben den Song zum brasilianischen Liebesklassiker gemacht.",
     "cultural_context": {
-      "historical": "Die Musik von Legiao Urbana ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Eduardo e Monica\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Legião Urbana war eine der einflussreichsten brasilianischen Rockbands der 1980er und 1990er Jahre, angeführt von Renato Russo. 'Eduardo e Mônica' (1986) ist eine der beliebtesten brasilianischen Liebeslieder aller Zeiten und gilt als perfektes Portrait der urbanen Jugend Brasílias. Die Musik wurde zum kulturellen Phänomen und Generationen-Anthem.",
+      "musical": "Der Song zeigt Legião Urbanas charakteristischen Storytelling-Stil: eine warmherzige, humorvolle Erzählung über Gegensätze, die sich anziehen, unterlegt mit melodischem Rock. Renato Russos poetische, aber alltägliche Sprache und die eingängige Melodie machten das Lied zu einem der größten Hits des brasilianischen Rocks."
     },
-    "idiomatic_expressions": [],
+    "idiomatic_expressions": [
+      {
+        "expression": "feijão com arroz",
+        "translation": "Bohnen mit Reis",
+        "explanation": "Klassische brasilianische Redewendung für ein perfekt harmonierendes Paar - wie das Grundnahrungsmittel Brasiliens sind sie unterschiedlich, aber untrennbar"
+      },
+      {
+        "expression": "boyzinho",
+        "translation": "kleiner Junge/verwöhnter Junge",
+        "explanation": "Brasilianische Umgangssprache für einen jungen, oft verwöhnten Mann aus der Mittelschicht - leicht abwertend, aber nicht unbedingt beleidigend gemeint"
+      },
+      {
+        "expression": "cursinho",
+        "translation": "Vorbereitungskurs",
+        "explanation": "Spezifisch brasilianischer Begriff für Vorbereitungskurse auf das 'vestibular' (Universitätszugangsprüfung) - wichtiger Teil der brasilianischen Bildungskultur"
+      },
+      {
+        "expression": "birita",
+        "translation": "Alkohol/Schnaps",
+        "explanation": "Brasilianische Umgangssprache für alkoholische Getränke - eher salopper, jugendlicher Ausdruck"
+      },
+      {
+        "expression": "se ferrar",
+        "translation": "Ärger bekommen",
+        "explanation": "Brasilianische Umgangssprache für 'in Schwierigkeiten geraten' oder 'Ärger bekommen' - sehr gebräuchlich im Alltag"
+      }      
+    ],
     "tags": [
       "brasilianisch",
       "populär",
@@ -928,10 +1081,10 @@
       "youtube": "https://www.youtube.com/watch?v=I29JUuotXG4",
       "spotify": "https://open.spotify.com/track/35J9vakuC3f18QTolNAQ6E?si=c68e9d6fb82d4a78"
     },
-    "description": "Eine nachdenkliche Ballade, die an das Leben und seine Zerbrechlichkeit erinnert („hätte ich nur mehr geliebt, geweint, gelebt“). Der ruhige Rhythmus macht sie zu einem Abschiedsklassiker.",
+    "description": "Eine nachdenkliche Ballade, die an das Leben und seine Zerbrechlichkeit erinnert ('hätte ich nur mehr geliebt, geweint, gelebt'). Der ruhige Rhythmus macht sie zu einem Abschiedsklassiker.",
     "cultural_context": {
-      "historical": "Titãs, gegründet 1982, ist eine der einflussreichsten Rockbands Brasiliens. Sie waren Teil der \"BRock\"-Bewegung (Brasilianischer Rock) der 1980er Jahre, die während der Endphase der Militärdiktatur entstand.",
-      "musical": "Ihr Sound kombiniert Rock mit brasilianischen Rhythmen und sozialkritischen Texten. \"A Melhor Banda de Todos os Tempos\" ist eine ironische Reflexion über die Vergänglichkeit von Ruhm und die Oberflächlichkeit der Musikindustrie."
+      "historical": "Titãs, gegründet 1982 in São Paulo, ist eine der einflussreichsten brasilianischen Rockbands. 'Epitáfio' wurde nach dem tragischen Tod des Sängers Nando Reis' Vaters geschrieben und wurde zu einem der bewegendsten Songs der Band, der über Lebensbedauern und Vergänglichkeit reflektiert.",
+      "musical": "Der Song zeigt die introspektive, melancholische Seite der Titãs: eine sanfte Ballade mit nachdenklichen Texten über verpasste Chancen und Lebensbedauern. Die minimalistischen Arrangements und die emotionale Tiefe machten 'Epitáfio' zu einem zeitlosen Klassiker über Sterblichkeit und die Wichtigkeit, das Leben zu schätzen."
     },
     "idiomatic_expressions": [],
     "tags": [
@@ -955,12 +1108,33 @@
       "youtube": "https://www.youtube.com/watch?v=5OsCnEfNPK4",
       "spotify": "https://open.spotify.com/track/1DcKuTqFYTYTTERUwTeEUS?si=4beb0820b81e4919"
     },
-    "description": "Mit weicher Stimme und einer melancholischen Melodie besingt Fagner in Espumas ao Vento die unauslöschlichen Spuren großer Liebe („Detalhes de nós dois são coisas muito grandes pra esquecer“). Das ruhige Arrangement betont die Zeitlosigkeit des Gefühls.",
+    "description": "Eine emotionale Ballade über Reue und die Hoffnung auf Versöhnung. Fagner besingt mit seiner charakteristischen rauchigen Stimme die Unauslöschlichkeit großer Liebe und die Bereitschaft zur Vergebung, unterlegt von einer melancholischen, aber hoffnungsvollen Melodie.",
     "cultural_context": {
-      "historical": "Die Musik von Fagner ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Espumas ao Vento\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Fagner (Raimundo Fagner) ist einer der wichtigsten Vertreter der brasilianischen Nordostmusik und seit den 1970er Jahren eine zentrale Figur der MPB. Geboren 1949 in Ceará, brachte er die Musik des Nordestens in den nationalen Mainstream und ist bekannt für seine emotionalen Balladen und seine markante, rauchige Stimme.",
+      "musical": "Der Song zeigt Fagners charakteristischen Stil: eine melancholische Ballade mit nordöstlichen Einflüssen und seiner unverwechselbaren, emotionalen Stimme. Seine Fähigkeit, Schmerz und Sehnsucht in poetische, eingängige Melodien zu verwandeln, machte ihn zu einem der beliebtesten Interpreten romantischer Musik Brasiliens."
     },
-    "idiomatic_expressions": [],
+    "idiomatic_expressions": [
+      {
+        "expression": "espumas ao vento",
+        "translation": "Schaum im Wind",
+        "explanation": "Poetischee Metapher für etwas Flüchtiges, Vergängliches - hier ironisch verwendet, um zu sagen, dass wahre Liebe NICHT so vergänglich ist"
+      },
+      {
+        "expression": "coração na mão",
+        "translation": "Herz in der Hand",
+        "explanation": "Brasilianische Redewendung für Verletzlichkeit und Offenheit - jemand, der sein Herz 'in der Hand trägt', zeigt seine Gefühle offen und ungeschützt"
+      },
+      {
+        "expression": "desejo pegando fogo",
+        "translation": "brennendes Verlangen",
+        "explanation": "Intensive Metapher für leidenschaftliches, unkontrollierbares Verlangen - das Feuer symbolisiert die Intensität des Gefühls"
+      },
+      {
+        "expression": "meu olhar vai dar uma festa",
+        "translation": "mein Blick wird ein Fest sein",
+        "explanation": "Poetische Art zu sagen, dass die Augen vor Freude strahlen werden - typisch für die romantische Sprache der MPB"
+      }      
+    ],
     "tags": [
       "brasilianisch",
       "populär",
@@ -983,10 +1157,10 @@
       "youtube": "https://www.youtube.com/watch?v=GIyaewmyJk0",
       "spotify": "https://open.spotify.com/track/6cV0tpBhPFTR7NoMVpwoLt?si=eb546d2c073c4200"
     },
-    "description": "In Essa Mulher erkundet Antunes die rätselhafte Faszination einer besonderen Frau. Die lakonische Gitarrenbegleitung und die ungewöhnlichen Reime verleihen dem Stück seinen typisch avantgardistischen Charakter.",
+    "description": "Ein provokanter Song über weibliche Unabhängigkeit und Selbstbestimmung. Arnaldo Antunes thematisiert mit direkter, unverblümter Sprache eine Frau, die emotional und sexuell völlig autonom ist und keine männliche Bestätigung braucht - typisch für seinen experimentellen, gesellschaftskritischen Stil.",
     "cultural_context": {
-      "historical": "Arnaldo Antunes ist ein bedeutender brasilianischer Dichter, Sänger und ehemaliges Mitglied der Band Titãs. Seine Solo-Karriere seit den 1990er Jahren ist geprägt von experimentellen Texten und minimalistischen Kompositionen.",
-      "musical": "Seine Musik verbindet poetische Texte mit einfachen, aber wirkungsvollen Melodien. \"A Casa é Sua\" zeigt seine Fähigkeit, alltägliche Themen in tiefgründige Reflexionen zu verwandeln."
+      "historical": "Arnaldo Antunes ist ein bedeutender brasilianischer Dichter, Musiker und ehemaliges Mitglied der Titãs. Als Solokünstler seit den 1990ern ist er bekannt für experimentelle, minimalistische Kompositionen und provokante Texte, die gesellschaftliche Tabus brechen und neue Perspektiven auf Beziehungen und Sexualität bieten.",
+      "musical": "Der Song zeigt Antunes' charakteristischen Stil: minimalistische Arrangements kombiniert mit direkten, repetitiven Texten, die durch ihre Einfachheit verstören. Seine Musik verbindet Poesie mit provokanten sozialen Kommentaren und macht komplexe Themen durch eingängige, aber unkonventionelle Melodien zugänglich."
     },
     "idiomatic_expressions": [],
     "tags": [
@@ -1012,10 +1186,31 @@
     },
     "description": "Eine zärtliche Bossa-Nova‑Komposition, in der Tom Jobim mit weichen Gitarrenakkorden und poetischen Texten vom Flüstern der Liebe erzählt.",
     "cultural_context": {
-      "historical": "Die Musik von Tom Jobim ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Falando de Amor\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Tom Jobim (1927-1994) ist der 'Pai da Bossa Nova' (Vater der Bossa Nova) und einer der einflussreichsten brasilianischen Komponisten aller Zeiten. Als Schöpfer von Klassikern wie 'Girl from Ipanema' und 'Corcovado' brachte er die brasilianische Musik weltweit zum Durchbruch und machte die Bossa Nova zu einem globalen Phänomen.",
+      "musical": "Der Song zeigt Jobims charakteristischen Bossa-Nova-Stil: subtile Harmonien, poetische Texte und die typische brasilianische Leichtigkeit. Seine raffinierten Kompositionen verbinden Jazz-Einflüsse mit brasilianischer Sensibilität und machten ihn zu einem der meistgespielten brasilianischen Komponisten weltweit."
     },
-    "idiomatic_expressions": [],
+    "idiomatic_expressions": [
+      {
+        "expression": "choro",
+        "translation": "Weinen/Choro",
+        "explanation": "Doppelte Bedeutung: sowohl 'weinen' als auch ein traditioneller brasilianischer Musikstil - Jobim spielt hier poetisch mit beiden Bedeutungen"
+      },
+      {
+        "expression": "chora pinho",
+        "translation": "weine, Kiefer/Gitarre",
+        "explanation": "Poetische Personifizierung der Gitarre - 'pinho' (Kiefer) war ein alter brasilianischer Begriff für Gitarre, der auf das Holz des Instruments anspielt. Jobim lässt das Instrument selbst 'weinen'"
+      },
+      {
+        "expression": "jeito de flor",
+        "translation": "Blütenwesen",
+        "explanation": "Poetische Metapher für feminine Zartheit und Schönheit - typisch für die romantische Sprache der Bossa Nova"
+      },
+      {
+        "expression": "esqueço até do futebol",
+        "translation": "ich vergesse sogar den Fußball",
+        "explanation": "Humorvolle Hyperbel für extreme Verliebtheit - in Brasilien ist Fußball so wichtig, dass es nur bei großer Liebe vergessen wird"
+      }      
+    ],
     "tags": [
       "brasilianisch",
       "populär",
@@ -1039,10 +1234,41 @@
     },
     "description": "Epenhafte Rock-Oper in 159 Zeilen: Faroeste Caboclo erzählt die Lebensgeschichte von João de Santo Cristo bis zu seinem dramatischen Ende. Mit treibenden Gitarren und sozialkritischen Texten ist das Stück ein Meilenstein des brasilianischen Rock und Kulturgut der 1980er.",
     "cultural_context": {
-      "historical": "Die Musik von Legiao Urbana ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Faroeste Caboclo\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Legião Urbana war eine der einflussreichsten brasilianischen Rockbands der 1980er und 1990er Jahre, angeführt von Renato Russo. 'Faroeste Caboclo' (1987) ist ein 9-minütiges Epos über Gewalt, Migration und soziale Ungerechtigkeit in Brasília. Die Musik wurde zu einem kulturellen Phänomen und gilt als eine der größten Kompositionen des brasilianischen Rocks aller Zeiten.",
+      "musical": "Der Song zeigt Legião Urbanas epischen Storytelling-Stil: eine komplexe Erzählung über João de Santo Cristo, einen Migranten aus dem Nordosten, der in Brasília Aufstieg und Fall erlebt. Die kraftvollen Gitarrenriffs und Renato Russos eindringliche Stimme machen das Lied zu einer Rock-Oper über Brasiliens soziale Probleme."
     },
-    "idiomatic_expressions": [],
+    "idiomatic_expressions": [
+      {
+        "expression": "caboclo",
+        "translation": "Caboclo",
+        "explanation": "Bezeichnung für Menschen gemischter indigener und europäischer Abstammung, besonders aus dem brasilianischen Hinterland - wichtige kulturelle Identität im ländlichen Brasilien"
+      },
+      {
+        "expression": "bestificado",
+        "translation": "verblüfft/fasziniert",
+        "explanation": "Brasilianische Umgangssprache für 'sehr beeindruckt oder fasziniert sein' - typisch für die informelle Sprache der Migranten"
+      },
+      {
+        "expression": "maluco",
+        "translation": "Verrückte/Typen",
+        "explanation": "Brasilianische Umgangssprache für 'Leute' oder 'Typen', oft im Drogenkontext verwendet - hier bezogen auf Drogenkonsumenten"
+      },
+      {
+        "expression": "bagulho bom",
+        "translation": "gutes Zeug",
+        "explanation": "Brasilianischer Slang für qualitativ gute Drogen - typischer Ausdruck des Drogenmilieus der 1980er Jahre"
+      },
+      {
+        "expression": "ele dançou",
+        "translation": "er hat getanzt",
+        "explanation": "Brasilianische Redewendung für 'erwischt werden' oder 'in Schwierigkeiten geraten' - sehr gebräuchlich im kriminellen Milieu"
+      },
+      {
+        "expression": "com o cu na mão",
+        "translation": "mit dem Arsch in der Hand",
+        "explanation": "Sehr vulgäre brasilianische Redewendung für jemanden, der feige ist oder sich versteckt - drückt Verachtung für Mächtige aus, die nicht kämpfen"
+      }
+    ],
     "tags": [
       "brasilianisch",
       "populär",
@@ -1065,8 +1291,8 @@
     },
     "description": "Eine beschwingte MPB-Nummer, die mit positiver Energie und kinderhafter Leichtigkeit (Strophen von Laura Lavieri) das Thema Glück in einfachen Bildern feiert.",
     "cultural_context": {
-      "historical": "Die Musik von Marcelo Jeneci, Laura Lavieri ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Felicidade\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Marcelo Jeneci ist ein brasilianischer Singer-Songwriter und Multiinstrumentalist, der seit den 2000er Jahren zur neuen Generation der MPB gehört. Laura Lavieri ist eine talentierte brasilianische Sängerin und Komponistin. Diese Kollaboration vereint zwei Stimmen der zeitgenössischen brasilianischen Musik, die für ihre poetischen, gefühlvollen Interpretationen bekannt sind.",
+      "musical": "Der Song zeigt die charakteristische moderne MPB: eine optimistische Ballade mit poetischen Texten über Lebensphilosophie und Glück. Die harmonische Verbindung der beiden Stimmen und die sanften, akustischen Arrangements repräsentieren die neue Generation brasilianischer Künstler, die traditionelle MPB-Elemente mit zeitgenössischer Sensibilität verbinden."
     },
     "idiomatic_expressions": [],
     "tags": [
@@ -1091,8 +1317,8 @@
     },
     "description": "Indierock mit dichter, fast knapper Lyrik über flüchtige Begegnungen. Der treibende Beat und die verspielten Gitarren zeigen Skanks Experimentierfreude.",
     "cultural_context": {
-      "historical": "Die Musik von Skank ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Formato Mínimo\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Skank ist eine der erfolgreichsten brasilianischen Rockbands, gegründet 1991 in Belo Horizonte. Die Band um Samuel Rosa prägte seit den 1990er Jahren den brasilianischen Pop-Rock mit eingängigen Melodien und intelligenten Texten. Sie sind bekannt für ihre Experimentierfreude und die Verbindung von Rock mit brasilianischen Rhythmen.",
+      "musical": "Der Song zeigt Skanks poetische Raffinesse: ALLE Verse enden mit proparoxytonen Wörtern (súbito, ótima, príncipe, próxima, óculos, vírgulas, ácido, máximo, etc.), was einen hypnotischen, standardisierten Rhythmus schafft, der in der brasilianischen Musik einzigartig ist. Diese metrische Technik, ähnlich der von Chico Buarque in 'Construção' verwendeten, zeigt die literarische Reife der Band und ihre Fähigkeit, poetische Experimente mit zugänglichen Rock-Arrangements zu verbinden."
     },
     "idiomatic_expressions": [],
     "tags": [
@@ -1115,11 +1341,11 @@
       "youtube": "https://www.youtube.com/watch?v=6ITty9mFO_A",
       "spotify": "https://open.spotify.com/track/1nGBqBOk1FjdLzKpZ9Jvb2?si=87a88a3dc5b545bb"
     },
-    "description": "In dieser schrillen Punk‑Pop-Hommage besingt Supla eine geheimnisvolle „Berlin‑Girl“. Mit energiegeladenem Tempo und roher Stimme fängt der Song jugendlichen Rebellionsgeist und urbane Coolness ein.",
-    "cultural_context": {
-      "historical": "Die Musik von Supla ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Garota de Berlim\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
-    },
+  "description": "In dieser schrillen Punk‑Pop-Hommage besingt Supla eine geheimnisvolle 'Berlin‑Girl'. Mit energiegeladenem Tempo und roher Stimme fängt der Song jugendlichen Rebellionsgeist und urbane Coolness ein.",
+  "cultural_context": {
+    "historical": "Supla (Eduardo Smith de Vasconcellos Suplicy) ist einer der bekanntesten brasilianischen Punk-Rock-Musiker, aktiv seit den 1990er Jahren. Als Sohn des Politikers Eduardo Suplicy repräsentiert er die rebellische urbane Jugend Brasiliens und war Pionier bei der Einführung von Punk, Ska und Alternative Rock in die brasilianische Musikszene.",
+    "musical": "Der Song zeigt Suplas charakteristischen Punk-Rock-Stil: energische Gitarren, rohe Vocals und surreale, provokante Texte. Seine Musik verbindet internationalen Punk-Rock mit brasilianischer Sensibilität und thematisiert urbanes Leben, Rebellion und jugendliche Verwirrung mit einer Mischung aus Humor und Ernsthaftigkeit."
+  },
     "idiomatic_expressions": [],
     "tags": [
       "brasilianisch",
@@ -1141,10 +1367,10 @@
       "youtube": "https://www.youtube.com/watch?v=4UXRWTcI2TM",
       "spotify": "https://open.spotify.com/track/1wLqPjSFDIH59nhQ5Th5XT?si=9b07cfd9906045e6"
     },
-    "description": "Leicht funkiger Pop-Rock über die geheimnisvolle Anziehung, die Mädchen auf Jungs ausüben. Mit treibendem Bass und spielerischen Lyrics („garotos não resistem…“) wird das Wechselspiel der Verführung humorvoll beschrieben.",
+    "description": "Leicht funkiger Pop-Rock über die geheimnisvolle Anziehung, die Mädchen auf Jungs ausüben. Mit treibendem Bass und spielerischen Lyrics ('garotos não resistem…') wird das Wechselspiel der Verführung humorvoll beschrieben.",
     "cultural_context": {
-      "historical": "Die Musik von Leoni ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Garotos\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Leoni (Leo Henrique Santos Teixeira) ist ein brasilianischer Rock-Musiker und ehemaliger Gitarrist der legendären Band Kid Abelha, einer der wichtigsten Pop-Rock-Bands der 1980er Jahre. In seiner Solokarriere seit den 1990er Jahren ist er für eingängige, humorvolle Songs über Beziehungen und das urbane Leben bekannt.",
+      "musical": "Der Song zeigt Leonis charakteristischen Pop-Rock-Stil: funkige Basslinien kombiniert mit humorvollen, selbstironischen Texten über männliche Schwäche gegenüber weiblicher Verführung. Seine Musik verbindet brasilianische Leichtigkeit mit rockigen Arrangements und intelligenten, oft augenzwinkernden Texten über Liebe und Beziehungen."
     },
     "idiomatic_expressions": [],
     "tags": [
@@ -1168,12 +1394,23 @@
       "youtube": "https://www.youtube.com/watch?v=XoiW5NmrMbE",
       "spotify": "https://open.spotify.com/track/4RLp0EpcPdMHHoHmYIMWGH?si=9af27e3adaf14848"
     },
-    "description": "Índios hinterfragt die Verfehlungen der modernen Gesellschaft und erinnert an die Ureinwohner Brasiliens. Mit melancholischem Refrain („Somos tão jovens…“) und nachdenklicher Rockballaden‑Atmosphäre reflektiert der Song Widerstand und Hoffnung.",
+    "description": "Eine tiefgreifende Reflexion über Naivität, Ausbeutung und verlorene Unschuld. Renato Russo verwendet die Metapher der brasilianischen Ureinwohner, um sowohl die Kolonisierung als auch persönliche Enttäuschungen zu thematisieren. Mit melancholischen Gitarren und existenziellen Texten ist es eine der bewegendsten Kompositionen der Band.",
     "cultural_context": {
-      "historical": "Die Musik von Legiao Urbana ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Indios\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Legião Urbana war eine der einflussreichsten brasilianischen Rockbands der 1980er und 1990er Jahre, angeführt von Renato Russo. 'Índios' (1986) wurde nach Renato Russos Selbstmordversuch geschrieben und ist eine der tiefgreifendsten Reflexionen über brasilianische Identität, Kolonialgeschichte und persönliche Verletzlichkeit in der brasilianischen Musik.",
+      "musical": "Der Song zeigt Legião Urbanas introspektive Seite: eine melancholische Ballade mit existenziellen Texten, die historische Metaphern (die Ausbeutung der Ureinwohner) mit persönlichen Erfahrungen verbindet. Der Titel steht bewusst in Anführungszeichen, da Renato Russo nicht über echte Ureinwohner singt, sondern über alle 'Unschuldigen', die ausgebeutet werden."
     },
-    "idiomatic_expressions": [],
+    "idiomatic_expressions": [
+      {
+        "expression": "nos deram espelhos e vimos um mundo doente",
+        "translation": "sie gaben uns Spiegel und wir sahen eine kranke Welt",
+        "explanation": "Kraftvolle Metapher für die Kolonisierung - Spiegel waren wertlose Tauschgegenstände der Portugiesen gegen Gold. Der 'kranke Welt'-Blick symbolisiert den Verlust der Unschuld"
+      },
+      {
+        "expression": "eu quis o perigo e até sangrei sozinho",
+        "translation": "ich wollte die Gefahr und blutete sogar allein",
+        "explanation": "Direkte Referenz auf Renato Russos Selbstmordversuch - der persönlichste und schmerzhafteste Vers des Songs"
+      }      
+    ],
     "tags": [
       "brasilianisch",
       "populär",
@@ -1197,10 +1434,21 @@
     },
     "description": "Iracema erzählt mit warmherziger Melancholie von verlorener Liebe und einem plötzlichen Abschied. Adoniran Barbosas typische Mundart-Crooning und die einfache, fast volkstümliche Melodie machen den Song zu einem Klassiker, der die rauhe Schönheit des Heimatviertels São Paulo widerspiegelt.",
     "cultural_context": {
-      "historical": "Die Musik von Adoniran Barbosa ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Iracema\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Adoniran Barbosa (1910-1982) war einer der größten Komponisten der brasilianischen Popularmusik und der Chronist des paulistaner Arbeiterviertels. Seine Lieder in italienisch-portugiesischem Dialekt erzählen von den einfachen Menschen São Paulos und ihren Tragödien. Er gilt als authentische Stimme der urbanen brasilianischen Arbeiterklasse der Mitte des 20. Jahrhunderts.",
+      "musical": "Der Song zeigt Adonirans charakteristischen Stil: einfache Melodien mit tiefgreifenden emotionalen Texten im paulistaner Dialekt ('nóis ia se casar', 'chofer'). Seine Musik verbindet italienische Einwanderer-Nostalgie mit brasilianischer Sentimentalität und macht alltägliche Tragödien zu universellen menschlichen Geschichten."
     },
-    "idiomatic_expressions": [],
+    "idiomatic_expressions": [
+      {
+        "expression": "te pincha no chão",
+        "translation": "warf dich zu Boden",
+        "explanation": "Dialekt-Ausdruck für 'te jogou no chão' - 'pinchar' ist eine umgangssprachliche, rohe Art zu sagen 'werfen' oder 'schleudern'"
+      },
+      {
+        "expression": "fartavam 20 dias",
+        "translation": "es fehlten noch 20 Tage",
+        "explanation": "Dialekt für 'faltavam' - charakteristische Lautverschiebung des Dialekts, den Adoniran authentisch reproduzierte"
+      }
+    ],
     "tags": [
       "brasilianisch",
       "populär",
@@ -1222,10 +1470,10 @@
       "youtube": "https://www.youtube.com/watch?v=46ELQSVtIRo",
       "spotify": "https://open.spotify.com/track/7MKHjs2QBeFrfCso2YWuy8?si=d7579366fb9a41c4"
     },
-    "description": "Eingängiger Rocksong über die Unausweichlichkeit von Gefühlen („das, was passiert, passiert eben“). Mit griffigem Refrain und kraftvoller Gitarrenarbeit gehört der Song zu den Live-Favoriten.",
+    "description": "Eingängiger Rocksong über die Unausweichlichkeit von Gefühlen ('das, was passiert, passiert eben'). Mit griffigem Refrain und kraftvoller Gitarrenarbeit gehört der Song zu den Live-Favoriten.",
     "cultural_context": {
-      "historical": "Titãs, gegründet 1982, ist eine der einflussreichsten Rockbands Brasiliens. Sie waren Teil der \"BRock\"-Bewegung (Brasilianischer Rock) der 1980er Jahre, die während der Endphase der Militärdiktatur entstand.",
-      "musical": "Ihr Sound kombiniert Rock mit brasilianischen Rhythmen und sozialkritischen Texten. \"A Melhor Banda de Todos os Tempos\" ist eine ironische Reflexion über die Vergänglichkeit von Ruhm und die Oberflächlichkeit der Musikindustrie."
+      "historical": "Titãs, gegründet 1982 in São Paulo, ist eine der einflussreichsten brasilianischen Rockbands. Die Band war Teil der BRock-Bewegung der 1980er Jahre und prägte mit ihrer Mischung aus Punk, Pop und brasilianischen Elementen eine ganze Generation. Sie sind bekannt für intelligente, oft humorvolle Texte über urbanes Leben und menschliche Beziehungen.",
+      "musical": "Der Song zeigt Titãs' charakteristischen Stil: eingängiger Pop-Rock mit cleveren, minimalistischen Texten über universelle menschliche Erfahrungen. Die Band kombiniert rockige Arrangements mit brasilianischer Leichtigkeit und schafft es, komplexe emotionale Themen in einfache, aber wirkungsvolle Worte zu fassen."
     },
     "idiomatic_expressions": [],
     "tags": [
@@ -1249,10 +1497,10 @@
       "youtube": "https://www.youtube.com/watch?v=Fc9e27PFIlo",
       "spotify": "https://open.spotify.com/track/1EJYYoskQqKZINfRNcsf7H?si=6c586d1c3a0048bd"
     },
-    "description": "João e Maria ist eine moderne Liebesballade, in der Buarque auf märchenhafte Weise schildert, wie zwei Menschen durch gemeinsame Träume zusammenfinden. Die zarten Gitarren und die erzählerische Struktur verleihen dem Song einen poetischen, fast märchenhaften Charakter.",
+    "description": "Eine melancholische Reflexion über verlorene Kindheit und den Übergang zum Erwachsenenalter. Chico Buarque verwendet Kindheitsspiele und Fantasien als Metapher für die Unschuld, die unwiederbringlich verloren geht. Die sanfte Melodie verstärkt die nostalgische Atmosphäre dieser zeitlosen Ballade.",
     "cultural_context": {
-      "historical": "Die Musik von Chico Buarque ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Joao e Maria\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Chico Buarque ist einer der größten brasilianischen Komponisten und Schriftsteller, aktiv seit den 1960er Jahren. 'João e Maria' (1977) wurde während der Militärdiktatur geschrieben und kann sowohl als persönliche Nostalgie als auch als Metapher für Brasiliens verlorene Unschuld interpretiert werden. Der Song ist einer seiner introspektivsten und poetischsten Werke.",
+      "musical": "Der Song zeigt Chico Buarques lyrisches Genie: eine sanfte Ballade mit tief poetischen Texten über den Verlust der Kindheit und die harte Realität des Erwachsenwerdens. Seine Fähigkeit, universelle menschliche Erfahrungen in intime, persönliche Geschichten zu verwandeln, macht ihn zu einem der größten Liedermacher der Welt."
     },
     "idiomatic_expressions": [],
     "tags": [
@@ -1278,8 +1526,8 @@
     },
     "description": "Eine poppige Liebeserklärung, in der Kid Abelha die gefühlte Verlorenheit ohne den Geliebten schildern: Selbst Straßen und Gesichter wirken bedeutungslos. Das luftige Arrangement und die einprägsame Melodie machten das Lied zum 80er-Jahre-Hit in Brasilien.",
     "cultural_context": {
-      "historical": "Die Musik von Eu só penso em voce ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Kid Abelha\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Kid Abelha war eine der wichtigsten brasilianischen Pop-Rock-Bands der 1980er Jahre, gegründet in Rio de Janeiro. Mit Sängerin Paula Toller prägte die Band den brasilianischen Pop-Rock und wurde zu einer der erfolgreichsten Bands der sogenannten 'BRock'-Bewegung. Sie verbanden internationale Pop-Einflüsse mit brasilianischer Sensibilität.",
+      "musical": "Der Song zeigt Kid Abelhas charakteristischen 80er-Pop-Stil: eingängige Melodien, atmosphärische Synthesizer und Paula Tollers markante Stimme. Die Band war Meister bei romantischen Pop-Balladen, die sowohl melodisch eingängig als auch emotional tiefgreifend waren, typisch für den brasilianischen Pop-Rock der 1980er Jahre."
     },
     "idiomatic_expressions": [],
     "tags": [
@@ -1303,12 +1551,23 @@
       "youtube": "https://www.youtube.com/watch?v=zu5JaLtppDU",
       "spotify": "https://open.spotify.com/track/6yr6a0Zu93bBe4XvF5XDqZ?si=4d3aa55cbb2b41d9"
     },
-    "description": "Sanfte Samba-Ballade über selbstloses Geben und die bittere Erkenntnis, nicht erwidert zu werden. Der intime Gesang und das sparsame Arrangement verleihen dem Song schmerzliche Schönheit.",
+    "description": "Sanfte Rock-/MPB-Ballade über selbstloses Geben und die bittere Erkenntnis, nicht erwidert zu werden. Der intime Gesang und das sparsame Arrangement verleihen dem Song schmerzliche Schönheit.",
     "cultural_context": {
-      "historical": "Die Musik von Los Hermanos ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Lágrimas Sofridas\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Los Hermanos, gegründet 1997 in Rio de Janeiro, prägten mit ihrer Mischung aus Rock, Samba und MPB die brasilianische Musikszene der späten 1990er und 2000er Jahre. Mit ihrem Debütalbum erreichten sie Kultstatus und gelten bis heute als eine der innovativsten Bands Brasiliens.",
+      "musical": "„Lágrimas Sofridas“ zeigt Los Hermanos’ charakteristischen Stil: reduziertes, akustikbetontes Arrangements mit melancholischen Gitarren und subtilem Schlagzeug. Die Band verbindet Rock-Ästhetik mit brasilianischen Harmonien und schafft intime Songs, bei denen Text und Melodie gleichermaßen im Vordergrund stehen."
     },
-    "idiomatic_expressions": [],
+    "idiomatic_expressions": [
+      {
+        "expression": "lágrimas sofridas",
+        "translation": "erlittene Tränen",
+        "explanation": "Metapher für tiefe, schmerzliche Traurigkeit – nicht nur weinen, sondern leiden beim Weinen"
+      },
+      {
+        "expression": "feridas do meu peito",
+        "translation": "Wunden aus meiner Brust",
+        "explanation": "Poetische Metapher für emotionalen Schmerz im Herzen"
+      }      
+    ],
     "tags": [
       "brasilianisch",
       "populär",
@@ -1329,12 +1588,28 @@
       "youtube": "https://www.youtube.com/watch?v=n8rNAbmshc8",
       "spotify": "https://open.spotify.com/track/1eQpKqH1sEecyiTKEXuErI?si=1e10565b3618411b"
     },
-    "description": "Charmanter Samba‑Song über Authentizität („Wenn ich rauchen will, rauche ich...“). Zeca Pagodinhos lockere Art und das treibende Percussion‑Arrangement verkörpern Carioca‑Lebensfreude.",
+    "description": "Charmanter Samba-Song über Authentizität („Wenn ich rauchen will, rauche ich...“). Zeca Pagodinhos lässige Art und das treibende Percussion-Arrangement verkörpern Carioca-Lebensfreude.",
     "cultural_context": {
-      "historical": "Die Musik von Zeca Pagodinho ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Maneiras\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Zeca Pagodinho (geboren 1959 in Rio de Janeiro) ist einer der bekanntesten Vertreter des Samba und Pagode. Seit den 1980er Jahren prägt er die Carioca-Musikkultur mit seinen Alltagsgeschichten und seinem unprätentiösen Stil. Seine Musik spiegelt das Leben der Vorstädte und die Freude am einfachen Dasein wider.",
+      "musical": "„Maneiras“ zeigt Zecas charakteristischen Stil: entspanntes Samba- und Pagode-Feeling mit natürlichem Groove, verspielten Percussion-Patterns und Choro-Elementen. Seine offenen, umgangssprachlichen Texte und improvisierten Vocals machen den Song zur verkörperten Lebensphilosophie des Rioer Alltags."
     },
-    "idiomatic_expressions": [],
+    "idiomatic_expressions": [
+      {
+        "expression": "chamego",
+        "translation": "Zärtlichkeit",
+        "explanation": "Typisch brasilianischer Begriff für liebevolle Zuneigung, oft im familiären oder partnerschaftlichen Kontext verwendet"
+      },
+      {
+        "expression": "cafuné",
+        "translation": "Kopfmassage",
+        "explanation": "Brasilianische Geste der Zärtlichkeit, bei der jemand sanft durch die Haare gestreichelt wird"
+      },
+      {
+        "expression": "chorar de barriga cheia",
+        "translation": "mit vollem Bauch weinen",
+        "explanation": "Metapher für Undankbarkeit oder Jammern trotz Überfluss – kritisiert diejenigen, die klagen, obwohl sie alles haben"
+      }
+    ],
     "tags": [
       "brasilianisch",
       "populär",
@@ -1355,16 +1630,16 @@
       "youtube": "https://www.youtube.com/watch?v=N8CcNzr-bys",
       "spotify": "https://open.spotify.com/track/79jltldFfZzHrERifucYMZ?si=1247827955274947"
     },
-    "description": "Ein fröhliches, folkloristisches Duett über eine junge Frau im ländlichen Stil. Die eingängigen Melodie und kindliche Erzählweise machen das Lied besonders eingängig.",
+    "description": "Ein fröhliches, folkloristisches Duett über ländliche Liebesgeschichte und neckische Eifersucht. Die eingängige Melodie und kindliche Erzählweise machen den Song zu einem Klassiker der brasilianischen Popmusik.",
     "cultural_context": {
-      "historical": "Die Musik von Sandy e Junior ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Maria Chiquinha\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Sandy & Junior, Geschwisterduo aus Campinas, starteten ihre Karriere in den frühen 1990ern als Kinderstars. \"Maria Chiquinha\" (1995) adaptierte eine traditionelle Volksweise für den Mainstream und festigte ihren Status als Brückenbauer zwischen Pop und brasilianischer Folklore.",
+      "musical": "Der Song kombiniert die ländliche Folklore Brasiliens mit modernem Pop-Arrangement: einfache Cavaquinho-Rhythmen, klarer Gitarrensound und kindlich-verspielter Gesang schaffen eine einzigartige Mischung aus Tradition und zeitgenössischem Pop."
     },
     "idiomatic_expressions": [
       {
-        "original": "Quem é que tava lá com você?",
-        "translated": "Übersetzung würde hier stehen",
-        "explanation": "Dieser Ausdruck zeigt typische brasilianische Sprachwendungen und kulturelle Nuancen, die in der direkten Übersetzung oft verloren gehen."
+        "expression": "jamelão",
+        "translation": "Jamelão (Schwarze Myrte)",
+        "explanation": "Typische Frucht des brasilianischen Cerrado, im September eigentlich nicht reif – bildet hier den Ausgangspunkt des Neckens"
       }
     ],
     "tags": [
@@ -1387,12 +1662,18 @@
       "youtube": "https://www.youtube.com/watch?v=iQT9_6zLOTw",
       "spotify": "https://open.spotify.com/track/7sAmCuscAYhDi1AdgEfnjC?si=e338e80ed99540e6"
     },
-    "description": "Eine ironische Rock‑Story um einen jungen Afro‑Burschen namens Marvin, der im göttlichen Rhythmus tanzt. Der treibende Beat und die szenische Erzählung zeigen Titãs’ Experimentierfreude.",
+    "description": "Erzählt die bewegende Lebensgeschichte eines Jungen, der früh Verantwortung übernehmen muss. Mit eindringlichem Erzählstil und kraftvollen Gitarren zeichnet der Song ein soziales Porträt Brasiliens.",
     "cultural_context": {
-      "historical": "Titãs, gegründet 1982, ist eine der einflussreichsten Rockbands Brasiliens. Sie waren Teil der \"BRock\"-Bewegung (Brasilianischer Rock) der 1980er Jahre, die während der Endphase der Militärdiktatur entstand.",
-      "musical": "Ihr Sound kombiniert Rock mit brasilianischen Rhythmen und sozialkritischen Texten. \"A Melhor Banda de Todos os Tempos\" ist eine ironische Reflexion über die Vergänglichkeit von Ruhm und die Oberflächlichkeit der Musikindustrie."
+      "historical": "Titãs, gegründet 1982 in São Paulo, waren treibende Kräfte der BRock-Bewegung. „Marvin“ (1991) reflektiert die sozialen Realitäten der Vorstädte: Kinderarbeit, Armut und familiäre Verantwortung in Brasilien.",
+      "musical": "Der Song kombiniert Rockrhythmen mit funkigen und punkigen Elementen, untermalt von düsteren Gitarrenriffs und einprägsamen Refrains. Der narrative Gesang von Paulo Miklos verstärkt die filmische Qualität der Geschichte."
     },
-    "idiomatic_expressions": [],
+    "idiomatic_expressions": [
+    {
+      "expression": "trabalhava feito um burro",
+      "translation": "arbeitete wie ein Esel",
+      "explanation": "Vergleich aus der ländlichen Metaphorik, um harte, unermüdliche Arbeit zu beschreiben"
+    }      
+    ],
     "tags": [
       "rock",
       "satire",
@@ -1415,12 +1696,23 @@
       "youtube": "https://www.youtube.com/watch?v=TZxkjruRa2Y",
       "spotify": "https://open.spotify.com/track/1FGNS493UKaQOSLLy5JBId?si=c4b79fc34cd046bb"
     },
-    "description": "Kurze, eindringliche Rockballade: Ein zerbrochenes Herz, das sich selbst versichert, nicht verloren zu sein, und dennoch klagt, in tausend Stücke gebrochen zu sein. Minimalistische Gitarren und gedrückter Gesang unterstreichen die existenzielle Verzweiflung.",
+    "description": "Kurze, eindringliche Rockballade über Selbstbehauptung und existenzielle Zerbrochenheit. Renato Russos eindringlicher Gesang und das spärliche Gitarren-Arrangement verleihen dem Song rohe Intimität und intensive Verletzlichkeit.",
     "cultural_context": {
-      "historical": "Die Musik von Legiao Urbana ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Mil Pedacos\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Legião Urbana, gegründet 1982 in Brasília, war ein prägender Teil der brasilianischen Rockszene der 1980er und 1990er Jahre. \"Mil Pedacos\" (1986) spiegelte die Charme und Verzweiflung der post-Punk-Ära wider und etablierte Renato Russo als Stimme einer Generation, die zwischen Hoffnung und Desillusion schwankte.",
+      "musical": "Der Song zeichnet sich durch minimalistisches Post-Punk-Arrangement aus: reduzierte Gitarrenakkorde, trockener Schlagzeugbeat und Renato Russos emotional aufgeladener Gesang. Die knappe Struktur und die Wiederholung des Refrains verstärken die thematische Fragmentierung des gebrochenen Herzens."
     },
-    "idiomatic_expressions": [],
+    "idiomatic_expressions": [
+      {
+        "expression": "o sândalo perfuma o machado que o feriu",
+        "translation": "das Sandelholz parfümiert die Axt, die es verletzte",
+        "explanation": "'Das Sandelholz parfümiert die Axt, die ihn verletzt hat' zeigt die Großzügigkeit des Protagonisten, der trotz seiner Verletzungen keinen Groll hegt und das Erlebte wertschätzen kann. Diese sensible Sichtweise unterstreicht die Komplexität der Gefühle nach dem Ende einer Beziehung: Es gibt Leid, aber auch den Versuch, die Situation zu verstehen und zu akzeptieren."
+      },
+      {
+        "expression": "me quebrou em mil pedaços",
+        "translation": "brach mich in tausend Stücke",
+        "explanation": "Metapher für völlige emotionale Zerstörung – verbreitet im Brasilien-Slang für extremeren Herzschmerz"
+      }
+    ],
     "tags": [
       "brasilianisch",
       "populär",
@@ -1441,10 +1733,10 @@
       "youtube": "https://www.youtube.com/watch?v=ZKYBpP4iGEk",
       "spotify": "https://open.spotify.com/track/3N9x3S79hAPn3RXEcJTuDj?si=f116846dba6c4154"
     },
-    "description": "In dieser warmen, hymnischen Ballade kehrt der Sänger heim und erlebt, wie sich alles verändert hat. Das Motiv des heimischen Gartentors steht für Rückkehr und Verbundenheit.",
+    "description": "In dieser warmen, hymnischen Ballade kehrt der Sänger heim und erlebt, wie sich alles verändert hat. Das Motiv des heimischen Gartentors steht für Rückkehr und tiefe Verwurzelung.",
     "cultural_context": {
-      "historical": "Die Musik von Roberto Carlos ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"O Portao\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Roberto Carlos, geboren 1941, ist der ‚König der brasilianischen Musik‘ und prägte seit den 1960er Jahren die MPB und den Jovem Guarda-Stil. „O Portão“ (1969) reflektiert seine Rückbesinnung auf Heimat und familiäre Werte in einer Zeit gesellschaftlicher Umbrüche.",
+      "musical": "Der Song zeigt Roberto Carlos’ meisterhafte Verschmelzung von Hymnik und Pop: sanfte Gitarrenarpeggien, streicherartige Orchesterarrangements und seine warme Stimme vereinen sich zu einer ergreifenden Ballade, die das Thema Zuhause und Geborgenheit musikalisch umsetzt." 
     },
     "idiomatic_expressions": [],
     "tags": [
@@ -1469,16 +1761,10 @@
     },
     "description": "Marisa Monte unterlegt die Resignation über vergebene Liebesbemühungen mit groovigem Samba-Pop, ihr klarer Gesang verleiht dem Song zugleich Würde und Melancholie.",
     "cultural_context": {
-      "historical": "Die Musik von Marisa Monte ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"O que me importa\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Marisa Monte ist seit ihrem Debütalbum 1989 eine prägende Figur der zeitgenössischen MPB. „O que me importa“ (1989) etablierte sie als Solokünstlerin und zeigt ihren Brückenschlag zwischen traditionellem Samba und modernem Pop.",
+      "musical": "Der Song verbindet eingängige Samba-Rhythmen mit Pop-Arrangements: Funkgitarren, dezente Keyboard-Flächen und Marisas kristallklare Stimme schaffen eine Mischung aus Leichtigkeit und emotionaler Tiefe, typisch für ihren Stil."
     },
-    "idiomatic_expressions": [
-      {
-        "original": "oh!",
-        "translated": "Übersetzung würde hier stehen",
-        "explanation": "Dieser Ausdruck zeigt typische brasilianische Sprachwendungen und kulturelle Nuancen, die in der direkten Übersetzung oft verloren gehen."
-      }
-    ],
+    "idiomatic_expressions": [],
     "tags": [
       "brasilianisch",
       "populär",
@@ -1500,12 +1786,23 @@
       "youtube": "https://www.youtube.com/watch?v=MWh78SM5G7k",
       "spotify": "https://open.spotify.com/track/3iof6EclqePezHDibBiykI?si=7f694ce2c8834fc7"
     },
-    "description": "In Oceano nutzt Djavan die Metapher eines Meeres, um die alles verschlingende Kraft der Liebe zu schildern („Você deságua em mim, e eu, oceano“). Die ruhige Melodie und die harmonische Komplexität sind typisch für Djavans Verbindung von Poesie und musikalischem Feinsinn.",
+    "description": "In „Oceano“ nutzt Djavan die Metapher des Meeres, um die alles verschlingende Kraft der Liebe zu beschreiben. Die ruhige Melodie und harmonische Raffinesse sind charakteristisch für seine Verbindung von Poesie und musikalischem Feingefühl.",
     "cultural_context": {
-      "historical": "Die Musik von Djavan ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Oceano\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Djavan (geboren 1949 in Maceió) ist seit den 1970er Jahren einer der bedeutendsten Vertreter der MPB. „Oceano“ (1989) festigte seinen Ruf als innovativer Songwriter, der brasilianische Rhythmen mit Jazz- und Pop-Elementen verschmilzt.",
+      "musical": "Der Song verbindet subtile Bossa-Nova-Rhythmen mit moderner Pop-Harmonik und anspruchsvollen Akkordfolgen. Djavans samtige Stimme und verspielte Gitarrenläufe schaffen eine Atmosphäre von Weite und Sehnsucht, die das Bild des Ozeans musikalisch umsetzt."
     },
-    "idiomatic_expressions": [],
+    "idiomatic_expressions": [
+      {
+        "expression": "você deságua em mim, e eu, oceano",
+        "translation": "du ergießt dich in mich, und ich bin der Ozean",
+        "explanation": "Metapher für bedingungslose Aufnahme der Liebe – wie ein Ozean, der alles aufnimmt"
+      },
+      {
+        "expression": "amar é um deserto",
+        "translation": "lieben ist eine Wüste",
+        "explanation": "Starke bildhafte Gegenüberstellung von Liebe als karger, angstvoller Zustand vor dem Eintreffen des Geliebten"
+      }
+    ],
     "tags": [
       "brasilianisch",
       "populär",
@@ -1527,12 +1824,18 @@
       "youtube": "https://www.youtube.com/watch?v=rXTqbIJx1UQ",
       "spotify": "https://open.spotify.com/track/2MSgNp3n57PLV27y6MJX31?si=2979323c918c4463"
     },
-    "description": "Oitavo Andar erzählt auf ironische Weise von Existenzkrisen in einer Großstadt – die Protagonistin denkt ans Selbstmord, lässt sich dann aber lieber Beerenkuchen und Gemeinschaft mit der Nachbarin gefallen. Clarice Falcãos lakonischer Vortrag und die sanfte Folk-Pop‑Begleitung sorgen für bittersüßen Humor.",
+    "description": "Oitavo Andar kombiniert lakonischen, schwarzen Humor mit zarter Folk-Pop-Begleitung, um urbane Existenzkrisen spielerisch zu erzählen. Clarice Falcãos ruhige Stimme und ironische Wendungen verleihen dem Song bittersüße Leichtigkeit.",
     "cultural_context": {
-      "historical": "Die Musik von Clarice Falcão ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Oitavo Andar\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Clarice Falcão (geboren 1989) begann als Schauspielerin und YouTuberin, bevor sie 2013 ihr Debütalbum veröffentlichte. Sie steht für eine neue Generation brasilianischer Singer-Songwriter, die Alltagsszenen mit skurrilem Humor und persönlicher Verletzlichkeit verbinden.",
+      "musical": "Der Song vereint minimalistische Folk-Pop-Arrangements (Akustikgitarre, dezentem Klavier) mit unaufdringlichen Percussion-Elementen. Clarice nutzt ironische Erzähltechniken, um traumartige Szenen zu malen und den Kontrast zwischen Lebensmüdigkeit und Alltagsflucht zu betonen."
     },
-    "idiomatic_expressions": [],
+    "idiomatic_expressions": [
+      {
+        "expression": "brincar de sério",
+        "translation": "„todernst“ spielen",
+        "explanation": "Wortspiel mit ‚brincar‘ (spielen) und ‚sério‘ – ironische Darstellung des Leichenspiels im Leichenhaus"
+      }
+    ],
     "tags": [
       "brasilianisch",
       "populär",
@@ -1554,10 +1857,10 @@
       "youtube": "https://www.youtube.com/watch?v=DCZJcjSA4DY",
       "spotify": "https://open.spotify.com/track/2I9W98PEHHkrQ3kWlKBADC?si=2c7d8a2e65b34a2b"
     },
-    "description": "In Olhos nos Olhos verarbeitet Chico Buarque das Wechselbad nach einer Trennung: Beim Wiedersehen blickt er dem Ex-Partner direkt in die Augen und spürt seine alte Sehnsucht. Das zurückhaltende Samba-Arrangement und Buarques eindringlicher Gesang unterstreichen die bittersüße Dramatik des Moments.",
+    "description": "In „Olhos nos Olhos“ verarbeitet Chico Buarque das Wechselbad nach einer Trennung: Beim Wiedersehen blickt die Protagonistin dem Ex direkt in die Augen und spürt alte Sehnsucht. Das zurückhaltende Samba-Arrangement und Buarques eindringlicher Gesang unterstreichen die bittersüße Dramatik des Moments.",
     "cultural_context": {
-      "historical": "Die Musik von Chico Buarque ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Olhos nos Olhos\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Chico Buarque ist seit den 1960er Jahren eine zentrale Figur der MPB. „Olhos nos Olhos“ (1975) entstand in der Zeit des politischen Exils von Buarque und reflektiert persönliche Sehnsucht ebenso wie die kollektive Sehnsucht nach Rückkehr und Nähe.",
+      "musical": "Der Song kombiniert dezenten Samba-Rhythmus mit orchestralem Arrangement und jazzigen Akkordfolgen. Buarques geschmeidige Melodik und subtile Harmonien schaffen eine intime Atmosphäre, die den intensiven Blickkontakt musikalisch untermalt." 
     },
     "idiomatic_expressions": [],
     "tags": [
@@ -1581,18 +1884,12 @@
       "youtube": "https://www.youtube.com/watch?v=5COwRYGAavg",
       "spotify": "https://open.spotify.com/track/24bOiXGnWfwged0gg0LemU?si=c90c289249bb471a"
     },
-    "description": "Ein wehmütiger MPB‑Song, in dem Toquinho über die Abwesenheit des Geliebten sinniert. Die sanfte Gitarre und sein warmherziger Gesang vermitteln Sehnsucht und Zärtlichkeit.",
+    "description": "Wehmütiger MPB-Song, in dem Toquinho mit sanfter Gitarre und warmem Gesang die Suche nach dem Geliebten in nächtlicher Bohème schildert. Sehnsucht und Zärtlichkeit durchziehen den emotionalen Fluss des Stücks.",
     "cultural_context": {
-      "historical": "Die Musik von Toquinho ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Onde Anda voce\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Toquinho (Antonio Pecci Filho), aktiv seit den 1960er Jahren, prägte die MPB mit seiner Zusammenarbeit mit Vinícius de Moraes. „Onde Anda Você“ (1972) reflektiert die Ära der poetischen Bohème in Rio de Janeiro und den Wunsch nach Verbundenheit in urbaner Einsamkeit.",
+      "musical": "Der Song verbindet klassische Bossa-Nova-Elemente mit melancholischen MPB-Harmonien: filigrane Nylon-Gitarre, dezentes Streicher- und Flötenarrangement sowie Toquinhos intime Stimme schaffen eine Atmosphäre tief empfundenen Vermissens."
     },
-    "idiomatic_expressions": [
-      {
-        "original": "Que me deixou morto\nDe tanto prazer\nE por falar em beleza\nOnde anda a canção?",
-        "translated": "Übersetzung würde hier stehen",
-        "explanation": "Dieser Ausdruck zeigt typische brasilianische Sprachwendungen und kulturelle Nuancen, die in der direkten Übersetzung oft verloren gehen."
-      }
-    ],
+    "idiomatic_expressions": [],
     "tags": [
       "brasilianisch",
       "populär",
@@ -1614,12 +1911,23 @@
       "youtube": "https://www.youtube.com/watch?v=939MGkS4c98",
       "spotify": "https://open.spotify.com/track/6Kerf3tclHTyuSVR3jSgjb?si=dc1b6d99602746fa"
     },
-    "description": "Tief melancholisch arrangiert, handelt Outra Vez von der Sehnsucht nach einer verlorenen Liebe. Sanfte Orchesterbegleitung und sein samtiger Gesang machen den Song zu einem Klassiker.",
+    "description": "Tief melancholisch arrangiert, handelt „Outra Vez“ von der unvergänglichen Sehnsucht einer verlorenen Liebe. Sanfte Streichereinsätze und Roberto Carlos’ samtiger Gesang verleihen dem Song zeitlose Emotionalität und Würde.",
     "cultural_context": {
-      "historical": "Die Musik von Roberto Carlos ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Outra Vez\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Roberto Carlos, geboren 1941, wurde in den 1960er Jahren zum Ikonen der Jovem Guarda-Bewegung. Mit „Outra Vez“ (1969) etablierte er sich als Meister der romantischen Ballade, dessen Lieder Generationen brasilianischer Liebeslieder prägten.",
+      "musical": "Der Song verbindet klassische Orchesterballade mit subtilen Pop-Elementen: sanfte Streicher, dezente Rhythmusgruppe und Carlos’ warme Stimme schaffen eine intime Klanglandschaft, die das Thema Wiederkehr und Sehnsucht eindrucksvoll untermalt."
     },
-    "idiomatic_expressions": [],
+    "idiomatic_expressions": [
+      {
+        "expression": "mentira sincera",
+        "translation": "ehrliche Lüge",
+        "explanation": "Oxymoron, das die widersprüchliche Natur einer Lüge beschreibt, die aus Liebe oder Beschützerinstinkt entsteht"
+      },
+      {
+        "expression": "saudade faz lembrar de tudo outra vez",
+        "translation": "Sehnsucht erinnert an alles noch einmal",
+        "explanation": "Typische brasilianische Sehnsuchtsmetapher – ‚saudade‘ steht für tiefes Vermissen, das Erinnerungen immer wieder lebendig werden lässt"
+      }
+    ],
     "tags": [
       "brasilianisch",
       "populär",
@@ -1632,7 +1940,7 @@
     "artist": "Lenine",
     "title": {
       "original": "Paciencia",
-      "translated": "Der Weg"
+      "translated": "Geduld"
     },
     "lyrics": {
       "original": "Mesmo quando tudo pede um pouco mais de calma<br>Até quando o corpo pede um pouco mais de alma<br>A vida não para<br>Enquanto o tempo acelera e pede pressa<br>Eu me recuso faço hora vou na valsa<br>A vida tão rara<br><br>Enquanto todo mundo espera a cura do mal<br>E a loucura finge que isso tudo é normal<br>Eu finjo ter paciência<br>E o mundo vai girando cada vez mais veloz<br>A gente espera do mundo e o mundo espera de nós<br>Um pouco mais de paciência<br><br>Será que é o tempo que lhe falta pra perceber<br>Será que temos esse tempo pra perder<br>E quem quer saber<br>A vida é tão rara, tão rara<br><br>Mesmo quando tudo pede um pouco mais de calma<br>Até quando o corpo pede um pouco mais de alma<br>Eu sei, a vida não para<br>A vida não para não<br><br>A vida não para não",
@@ -1642,12 +1950,18 @@
       "youtube": "https://www.youtube.com/watch?v=bjtl2gbolSI",
       "spotify": "https://open.spotify.com/track/6gBlkT2u5P7UyZUYH8WnKz?si=c305b605a24f42e2"
     },
-    "description": "Sanfte MPB‑Ballade, die dazu aufruft, im Leben langsamer zu gehen und Geduld zu üben. Lenines ruhige Stimme und das subtile Perkussionsarrangement verleihen dem Song eine meditative Stimmung, ideal zur Reflexion.",
+    "description": "Sanfte MPB-Ballade, die dazu aufruft, im Leben langsamer zu gehen und Geduld zu üben. Lenines ruhige Stimme und das subtile Perkussionsarrangement verleihen dem Song eine meditative Stimmung, ideal zur Reflexion.",
     "cultural_context": {
-      "historical": "Die Musik von Lenine ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Paciencia\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Lenine (Osvaldo Lenine Macedo Pimentel) ist seit den 1990er Jahren eine prägende Figur der modernen MPB. „Paciência“ (2006) verbindet nordöstliche Rhythmen mit poetischen Texten und wurde zu einer Hymne für Achtsamkeit und Selbstreflexion im hektischen Alltag.",
+      "musical": "Der Song kombiniert reduzierte Elektronik und subtile Percussion mit akustischen Gitarren und Maracatu-Einflüssen. Lenines expressive Stimme und die geschichteten Rhythmusmuster schaffen eine meditative Klanglandschaft, die das Thema Geduld musikalisch umsetzt."
     },
-    "idiomatic_expressions": [],
+    "idiomatic_expressions": [
+      {
+        "expression": "fazer hora",
+        "translation": "sich Zeit nehmen",
+        "explanation": "Wörtlich ‚Stunden machen‘ – umgangssprachlich für langsamer werden, sich bewusst Zeit lassen"
+      }
+    ],
     "tags": [
       "brasilianisch",
       "populär",
@@ -1668,12 +1982,18 @@
       "youtube": "https://www.youtube.com/watch?v=v5lzhAUsZPk",
       "spotify": "https://open.spotify.com/track/1goUT7yXysKORNNkcxtpxk?si=cf3232b81e164d89"
     },
-    "description": "Eine zarte MPB-Ballade, in der einfache, sich wiederholende Phrasen die Gedankenschleifen des Ersehnten liebevoll nachzeichnen; Moskas samtige Stimme trägt die Sehnsucht perfekt.",
+    "description": "Eine zarte MPB-Ballade, in der einfache, sich wiederholende Phrasen die Gedankenschleifen des Ersehnten liebevoll nachzeichnen. Moskas samtige Stimme und das sparsame Arrangement verstärken die Intimität und Sehnsucht.",
     "cultural_context": {
-      "historical": "Die Musik von Paulinho Moska ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Pensando em Voce\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Paulinho Moska, Mitbegründer der A Cor do Som, startete seine Solokarriere 1993. „Pensando em Você“ (1994) etablierte ihn als sensiblen Songwriter und zählt zu seinen bekanntesten Liebesballaden der 1990er Jahre.",
+      "musical": "Der Song verbindet minimalistische Gitarrenbegleitung mit dezenten Keyboard-Flächen und subtilen Percussion-Elementen. Moskas feinsinniger Gesang und die strophische Wiederholung spiegeln den introspektiven Stil der zeitgenössischen MPB wider."
     },
-    "idiomatic_expressions": [],
+    "idiomatic_expressions": [
+      {
+        "expression": "pensando em você",
+        "translation": "an dich denken",
+        "explanation": "Wiederkehrende Phrase, die obsessive Gedanken an den Geliebten ausdrückt und das Thema Sehnsucht intensiviert"
+      }
+    ],
     "tags": [
       "brasilianisch",
       "populär",
@@ -1695,12 +2015,18 @@
       "youtube": "https://www.youtube.com/watch?v=hUqeXJI0rPw",
       "spotify": "https://open.spotify.com/track/1kVNAGNtioCh6mB980WLFH?si=af87844f55664ac4"
     },
-    "description": "Perfeita Simetria thematisiert Rückbesinnung auf vergangene Harmonie: Das Duett zweier „gleicher Hälften“ klingt in seinen synthetischen Gitarrenflächen wie ein nostalgisches Science‑Fiction‑Melodrama und spiegelt die Balance von Technik und Gefühl wider, die die Band prägt.",
+    "description": "Indie-Rock-Ballade über die Wiederentdeckung vergangener Harmonie. Mit subtilen Synthesizern und eindringlichen Gitarrenriffs spiegeln die Vocals das ersehnte Zurückkehren zu einer perfekten Balance wider.",
     "cultural_context": {
-      "historical": "Die Musik von Engenheiros do Hawaii ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Perfeita Simetria\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Engenheiros do Hawaii, gegründet 1984 in Porto Alegre, prägten die brasilianische Rockmusik mit intellektuellen Texten und experimentellen Klängen. „Perfeita Simetria“ (1990) stammt aus ihrem zweiten Album und zählt zu ihren hymnischen Klassikern, die Technik und Gefühl vereinen.",
+      "musical": "Der Song verbindet Post-Punk-Einflüsse mit brasilianischem Rock: synkopierte Drums, atmosphärische Synthesizerflächen und melodische Gitarren formen eine Klangfläche, auf der der wiederkehrende Refrain die lyrische Idee der Spiegelsymmetrie unterstreicht."
     },
-    "idiomatic_expressions": [],
+    "idiomatic_expressions": [
+      {
+        "expression": "carta fora do baralho",
+        "translation": "Karte außerhalb des Kartendecks",
+        "explanation": "Metapher für jemanden, der nicht mehr Teil des Ganzen ist – spielt auf das Aussortiertsein an"
+      }
+    ],
     "tags": [
       "brasilianisch",
       "populär",
@@ -1721,18 +2047,12 @@
       "youtube": "https://www.youtube.com/watch?v=-XN0qi9fPZk",
       "spotify": "https://open.spotify.com/track/7lEj67NTbSHuPHsA7Sxdxa?si=7960d018567549f8"
     },
-    "description": "Ein süßer Pop‑Song über die kleinen Tropfen der Liebe, die sich langsam ansammeln. Kid Abelha nutzt leichte Melancholie und eingängige Melodie, um zu zeigen, wie zarte Liebeszeichen das Herz erfüllen und Großes bewirken können.",
+    "description": "Ein süßer Pop-Song über die kleinen Tropfen der Liebe, die sich langsam ansammeln. Kid Abelha nutzt leichte Melancholie und eine eingängige Melodie, um zu zeigen, wie zarte Liebeszeichen das Herz erfüllen können.",
     "cultural_context": {
-      "historical": "Die Musik von Kid Abelha ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Pingos de Amor\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Kid Abelha wurde 1982 in Rio de Janeiro gegründet und zählt zu den prägenden Bands der brasilianischen Pop-Rock-Szene der 1980er Jahre. „Pingos de Amor“ (1990) festigte ihren Ruf für melancholische Liebeslieder mit poppigem Einschlag und blieb ein Fanliebling.",
+      "musical": "Der Song kombiniert leichte Gitarrenarpeggien mit einem sanften Schlagzeugrhythmus und dezenten Keyboard-Flächen. Paula Tollers helle Stimme und der wiederkehrende Refrain erzeugen ein warmes, verspieltes Klangbild, das die Metapher der Tropfen musikalisch umsetzt."
     },
-    "idiomatic_expressions": [
-      {
-        "original": "Vamos ser outra vez nós dois\nVai chover pingos de amor\nVamos ser outra vez nós dois\nVai chover pingos, pingos, pingos de amor\nOh oh oh!",
-        "translated": "Übersetzung würde hier stehen",
-        "explanation": "Dieser Ausdruck zeigt typische brasilianische Sprachwendungen und kulturelle Nuancen, die in der direkten Übersetzung oft verloren gehen."
-      }
-    ],
+    "idiomatic_expressions": [],
     "tags": [
       "brasilianisch",
       "populär",
@@ -1754,10 +2074,10 @@
       "youtube": "https://www.youtube.com/watch?v=QpSOWQwpaBI",
       "spotify": "https://open.spotify.com/track/59ONqMEvrUq2iaiQbfRc3q?si=fb11d77b2b204cad"
     },
-    "description": "Por Você ist eine der bekanntesten Power-Balladen des Barão Vermelho. Die sehnsuchtsvolle Melodie, begleitet von effektvollem E-Gitarrensolo, und Cazuza‑typische Lyrics („Por você eu dançaria tango no teto“) drücken die absolute Bereitschaft zur Selbstaufgabe der Liebe aus.",
+    "description": "Por Você ist eine ikonische Power-Ballade, in der Cazuza mit Sehnsucht und Leidenschaft die Bereitschaft zur ultimativen Selbstaufgabe besingt. Das dramatische E-Gitarrensolo und die kraftvolle Melodie erzeugen emotionale Intensität.",
     "cultural_context": {
-      "historical": "Die Musik von Barao Vermelho ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Por voce\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Barão Vermelho, gegründet 1981 in Rio de Janeiro, wurde mit Leadsänger Cazuza (danach Frejat) zur Speerspitze des brasilianischen Rock der 1980er Jahre. „Por Você“ (1990) wurde ihr Signature-Song und prägte die brasilianische Rockballaden-Ära.", 
+      "musical": "Der Song verbindet harte Rock-Riffs mit melodischer Power-Ballade: markante E-Gitarren-Hooks, treibendes Schlagzeug und Frejats rauchiger Gesang schaffen eine theatralische Klangwelt, die die manische Hingabe lyrisch untermalt."
     },
     "idiomatic_expressions": [],
     "tags": [
@@ -1781,10 +2101,10 @@
       "youtube": "https://www.youtube.com/watch?v=a-w6tZX2Ono",
       "spotify": "https://open.spotify.com/track/4hCrrd4eWFmPdycdcky1Wf?si=3b12fd6672bc4efc"
     },
-    "description": "In Pra Ser Sincero stellt die Band ihre ironisch‑distanzierten Lyrics („Beijo sem paixão, crime sem castigo“) einem poppigen Gitarrenriff entgegen. Der Text parodiert gesellschaftliche Konventionen, während die Musik dennoch eingängig bleibt.",
+    "description": "In „Pra Ser Sincero“ kontrastieren ironisch-distanziert wirkende Lyrics („Beijo sem paixão, crime sem castigo“) mit einem beschwingten Gitarrenriff. Die Band parodiert gesellschaftliche Höflichkeitskonventionen, während die fesselnde Melodie eingängig bleibt.",
     "cultural_context": {
-      "historical": "Die Musik von Engenheiros do Hawaii ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Pra ser Sincero\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Engenheiros do Hawaii, seit 1984 aktiv, gelten als intellektuelle Speerspitze des brasilianischen Rock. „Pra Ser Sincero“ (1995) stammt aus ihrem vierten Album und reflektiert postmoderne Skepsis gegenüber sozialen Ritualen und Zwängen.",
+      "musical": "Der Song verbindet Funk- und Pop-Rhythmen mit charakteristischem Gitarrenspiel: perkussive Riffs, synkopierte Basslinien und klare Gesangsharmonien formen eine ironisch-leichte Klanglandschaft, in der die pointierten Wortspiele musikalisch unterstrichen werden."
     },
     "idiomatic_expressions": [],
     "tags": [
@@ -1808,12 +2128,33 @@
       "youtube": "https://www.youtube.com/watch?v=QypF2T81LHk",
       "spotify": "https://open.spotify.com/track/5rcwVk85FLHsELX96A1AJF?si=8814c9d4598641cc"
     },
-    "description": "Eine ergreifende Choro-Ballade, in der Cavaquinhos raue Stimme und einfache Gitarrenbegleitung die Einsamkeit nach dem Verlust einer Liebe in sehr direkten Worten schildern.",
+    "description": "Eine tiefgreifende Reflexion über Leben, Tod und die Vergänglichkeit menschlicher Erinnerung. Cavaquinhos raue, emotionale Stimme und die schlichte Gitarrenbegleitung verleihen diesem existenziellen Samba zeitlose Würde.",
     "cultural_context": {
-      "historical": "Die Musik von Nelson Cavaquinho ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Quando eu Me Chamar Saudade\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Nelson Cavaquinho (1911-1986) war einer der größten Samba-Komponisten Brasiliens und Chronist des Lebens in den Favelas von Rio de Janeiro. Seine Lieder reflektieren die harten Realitäten des urbanen Lebens mit poetischer Tiefe und spiritueller Suche.",
+      "musical": "Der Song zeigt Cavaquinhos charakteristischen Stil: einfache, aber tiefgreifende Melodien mit existenziellen Texten, begleitet von minimalistischen Samba-Rhythmen. Seine raue Stimme und die schlichte Instrumentierung verstärken die emotionale Authentizität seiner Botschaft über Vergänglichkeit und menschliche Verbindung."
     },
-    "idiomatic_expressions": [],
+    "idiomatic_expressions": [
+      {
+        "expression": "quando eu me chamar saudade",
+        "translation": "wenn ich mich Sehnsucht nenne",
+        "explanation": "Poetische Metapher für den Tod - wenn man nur noch als Erinnerung und Sehnsucht in anderen weiterlebt"
+      },
+      {
+        "expression": "me dê as flores em vida",
+        "translation": "gib mir die Blumen im Leben",
+        "explanation": "Klassische brasilianische Weisheit - zeigt Zuneigung zu Lebzeiten, nicht erst nach dem Tod"
+      },
+      {
+        "expression": "para aliviar meus ais",
+        "translation": "um meinen Kummer zu lindern",
+        "explanation": "Poetischer Ausdruck für Schmerz und Leid - 'ais' ist eine literarische Form für Seufzer und Wehklagen"
+      },
+      {
+        "expression": "fazer de ouro um violão",
+        "translation": "eine goldene Gitarre machen",
+        "explanation": "Metapher für posthume Ehrungen, die dem Verstorbenen nichts mehr nützen - kritisiert oberflächliche Gedenkrituale"
+      }
+    ],
     "tags": [
       "brasilianisch",
       "populär",
@@ -1835,12 +2176,23 @@
       "youtube": "https://www.youtube.com/watch?v=lk_EXr9xEr0",
       "spotify": "https://open.spotify.com/track/2Pr6qNmiOxTdo8B6bs8x8x?si=a99d4bfb8c6d4c87"
     },
-    "description": "Sanfte Rockballade über die unerwartete Erkenntnis, dass zwei Menschen fast ohne Absicht dasselbe fühlen. Renato Rusos gefühlvoller Gesang und die filigrane Gitarrenmelodie machen das Stück zu einer zarten Liebeserklärung an die magischen Zufälle des Lebens.",
-    "cultural_context": {
-      "historical": "Die Musik von Legiao Urbana ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Quase sem querer\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+  "description": "Eine zarte Rockballade über die stille Erkenntnis gemeinsamer Gefühle, die fast beiläufig entstehen. Renato Rusos sanfter Gesang und die filigrane Gitarrenmelodie schaffen eine intime, verträumte Atmosphäre.",
+  "cultural_context": {
+    "historical": "Legião Urbana, gegründet 1982 in Brasília, wurde zum Sprachrohr einer ganzen Generation in den 1980er und 1990er Jahren. „Quase sem querer“ (1986) spiegelt Renato Russos introspektive Seite und seine Fähigkeit wider, persönliche Emotionen als Generationen-Thema zu formulieren.",
+    "musical": "Der Song kombiniert Post-Punk-Elemente mit sanftem Gitarrenarpeggio und dezentem Schlagzeug. Die subtile Dynamik und das harmonische Zusammenspiel unterstreichen die lyrische Idee der zufälligen Übereinstimmung von Empfindungen."
+  },
+  "idiomatic_expressions": [
+    {
+      "expression": "me fiz em mil pedaços",
+      "translation": "ich zerbrach mich in tausend Stücke",
+      "explanation": "Metapher für emotionale Zerrissenheit – beschreibt das Ausgeliefertsein an starke Gefühle"
     },
-    "idiomatic_expressions": [],
+    {
+      "expression": "mentir pra si mesmo é sempre a pior mentira",
+      "translation": "sich selbst anzulügen ist immer die schlimmste Lüge",
+      "explanation": "Betont die Bedeutung von Selbstwahrheit und den inneren Konflikt bei Verleugnung eigener Gefühle"
+    }
+    ],
     "tags": [
       "brasilianisch",
       "populär",
@@ -1862,10 +2214,10 @@
       "youtube": "https://www.youtube.com/watch?v=cRX7ZGQbYmQ",
       "spotify": "https://open.spotify.com/track/6ASRq2wtyAXXiGJD1TSdYe?si=b73d7925672644f7"
     },
-    "description": "In Quem Sabe? verbindet Carlos Gomes gefühlvollen MPB‑Pop mit rhetorischen Fragen über Beständigkeit und Sehnsucht. Der Song spiegelt die Suche nach Gewissheit in der Liebe wider und wurde insbesondere durch Interpretationen bekannter Sambistas populär.",
+    "description": "Gefühlvoller MPB-Pop mit introspektiven Fragen zur Beständigkeit der Liebe. Die sanfte Melodie und der berührende Gesang vermitteln Sehnsucht und das Ringen um Gewissheit.",
     "cultural_context": {
-      "historical": "Die Musik von Carlos Gomes ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Quem sabe?\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Carlos Gomes (geboren 1953) wurde in den 1980er Jahren durch seine samtige Stimme und poetischen Texte bekannt. „Quem Sabe?“ (1985) avancierte via Samba-Interpreten zum Rádio-Hit und spiegelt die Suche nach Treue in einer Ära politischer Unsicherheit wider.",
+      "musical": "Der Song kombiniert klassische MPB-Harmonien mit dezenten Samba-Rhythmen: akustische Gitarren, leichte Percussion und Streicher-Arrangements schaffen eine warme Klanglandschaft, in der sich die rhetorischen Fragen entfalten."
     },
     "idiomatic_expressions": [],
     "tags": [
@@ -1889,12 +2241,33 @@
       "youtube": "https://www.youtube.com/watch?v=NDzH1lb1rcE",
       "spotify": "https://open.spotify.com/track/0zDd8L392PZaHM0QXr4t3Y?si=c8b705c205c941ce"
     },
-    "description": "Refrão de Bolero kombiniert bolero‑hafte Rhythmik mit Rock‑Attitüde: Die Zeile „Coração na mão como refrão de bolero“ besingt dramatische Liebesqualen wie in einem klassischen Tanzlied, jedoch in zeitgemäßer elektrifizierter Form.",
+    "description": "Refrão de Bolero kombiniert bolero-hafte Rhythmik mit Rock-Attitüde: Die Zeile „Coração na mão como refrão de bolero“ besingt dramatische Liebesqualen wie in einem klassischen Tanzlied, jedoch in zeitgemäßer elektrifizierter Form.",
     "cultural_context": {
-      "historical": "Die Musik von Engenheiros do Hawaii ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Refrao de Bolero\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Engenheiros do Hawaii, gegründet 1984 in Porto Alegre, wurden mit intellektuellen Texten und experimentellen Klängen bekannt. „Refração de Bolero“ (1993) aus dem Album «Filmes de Guerra, Canções de Amor» zeigt ihren Brückenschlag zwischen traditioneller Bolero-Ästhetik und urbanem Rock-Anspruch.",
+      "musical": "Der Song verbindet typische 4/4-Bolero-Pattern mit verzerrten Gitarrensounds, treibendem Bass und sparsamen Streicher-Arrangements. Die Band variiert Tempo und Dynamik, um den dramatischen Spannungsbogen des lyrischen „Bolero“-Motivs elektrifiziert zu inszenieren."
     },
-    "idiomatic_expressions": [],
+    "idiomatic_expressions": [
+      {
+        "expression": "coração na mão",
+        "translation": "Herz in der Hand",
+        "explanation": "Metapher für verletzliche Offenheit und emotionale Auslieferung – typisch bildhafte Sprache in Liebesliedern"
+      },
+      {
+        "expression": "crime sem perdão",
+        "translation": "Verbrechen ohne Vergebung",
+        "explanation": "Starkes Bild für unentschuldbare Liebesverfehlung – betont Unwiderruflichkeit des Fehlers"
+      },
+      {
+        "expression": "roendo as unhas",
+        "translation": "Nägel kauen",
+        "explanation": "Umgangssprachliche Geste für nervöse Reue und Unsicherheit in emotionalen Konflikten"
+      },
+      {
+        "expression": "seguir tua pista",
+        "translation": "deiner Spur folgen",
+        "explanation": "Metapher für obsessive Suche nach dem Geliebten – drückt Hartnäckigkeit aus"
+      }
+    ],
     "tags": [
       "brasilianisch",
       "populär",
@@ -1918,14 +2291,19 @@
     },
     "description": "Eine Mischung aus Rock und Dub-Reggae, in der Skank mit Fragen und Antworten die Dynamik von Beziehungen auf den Punkt bringt.",
     "cultural_context": {
-      "historical": "Die Musik von Skank ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Resposta\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Skank, gegründet 1991 in Belo Horizonte, prägte mit ihrem Debütalbum (1994) die brasilianische Szene, indem sie Rock, Reggae und Pop vereinte. „Resposta“ (1996) aus dem Album ‘O Samba Poconé’ wurde zum Radiohit und festigte ihren internationalen Erfolg.",
+      "musical": "Der Song kombiniert eingängige Gitarrenriffs mit Dub-Reggae-Elementen: offbeat Rhythmus, tiefer Bass und Echopads. Die prägnanten Frage-Antwort-Strukturen im Text reflektieren spielerisch zwischenmenschliche Unsicherheiten und Harmonie."
     },
     "idiomatic_expressions": [
       {
-        "original": "Os versos seus\nTão meus que peço\nNos versos meus\nTão seus que esperem\nQue os aceite\n\nEm paz\nEu digo que eu sou\nO antigo do que vai adiante\nSem mais eu fico onde estou\nPrefiro continuar distante\n\nBem mais que o tempo\nQue nós perdemos\nFicou pra trás também o que nos juntou\nAinda lembro o que eu estava lendo\nSó pra saber o que voce achou.",
-        "translated": "Übersetzung würde hier stehen",
-        "explanation": "Dieser Ausdruck zeigt typische brasilianische Sprachwendungen und kulturelle Nuancen, die in der direkten Übersetzung oft verloren gehen."
+        "expression": "os versos seus tão meus",
+        "translation": "deine Verse, so sehr meine",
+        "explanation": "Metapher für intime Nähe durch geteilte Worte – betont poetische Verschmelzung zweier Menschen"
+      },
+      {
+        "expression": "crime perfeito não deixa suspeitos",
+        "translation": "perfektes Verbrechen hinterlässt keine Verdächtigen",
+        "explanation": "Sprichwort für unbemerkte Tat – hier übertragen auf heimliche Gefühle ohne offensichtliche Hinweise"
       }
     ],
     "tags": [
@@ -1948,10 +2326,10 @@
       "youtube": "https://www.youtube.com/watch?v=SYbMbqJZ5us",
       "spotify": "https://open.spotify.com/track/36knCq47HQmvWquHMsJmJk?si=acbc6ead61ff4748"
     },
-    "description": "Ein Disco‑Samba‑Hit mit tanzbarem Groove: Magal besingt eine Frau mit charmantem Wortwitz und typischem 1970er‑Nostalgie‑Sound.",
+    "description": "Ein treibender Disco-Samba-Hit, in dem Magal mit charmantem Wortwitz und nostalgischem 1970er-Sound eine verführerische Frau besingt.",
     "cultural_context": {
-      "historical": "Die Musik von Sidney Magal ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Sandra Rosa Madalena\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Sidney Magal (geb. 1950) wurde in den 1970er Jahren zum Disco-Ikone Brasiliens. „Sandra Rosa Madalena“ (1977) vereinte Samba, Disco und Pop und machte Magal landesweit bekannt; der Song ist bis heute ein Klassiker der brasilianischen Tanzmusik.",
+      "musical": "Der Song kombiniert treibende Percussion-Rhythmen und charakteristische Samba-Grooves mit Disco-Streichern und Basslinien. Magals theatralischer Gesangsstil und eingängige Refrains schaffen eine mitreißende Atmosphäre, die den 70er-Jahre-Nostalgie-Sound perfekt umsetzt."
     },
     "idiomatic_expressions": [],
     "tags": [
@@ -1974,17 +2352,27 @@
       "youtube": "https://www.youtube.com/watch?v=ZSZyth38-zk",
       "spotify": "https://open.spotify.com/track/0PgsB53yhlKs8D19LgYU4i?si=f624405677c24786"
     },
-    "description": "Se ist ein poetisches Liebeslied, in dem Djavan mit musikalischer Raffinesse („O som que eu ouço são as gírias do seu vocabulário“) die Ausdruckskraft der kleinen Momente besingt. Die sanften Jazz‑ und Bossa-Nova‑Einflüsse machen das Stück zu einem MPB‑Klassiker.",
+    "description": "Djavan's \"Se\" ist ein raffiniertes MPB-Liebeslied über emotionale Unentschlossenheit. Mit subtilen Jazz-Harmonien und poetischen Wortspielen thematisiert der Song die Frustration über eine Person, die sich nicht zwischen Ja und Nein entscheiden kann.",
     "cultural_context": {
-      "historical": "Die Musik von Djavan ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Se\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Djavan, geboren 1949 in Maceió, ist einer der wichtigsten brasilianischen Singer-Songwriter seit den 1970er Jahren. Seine Karriere begann in der Tropicália-Ära und entwickelte sich zu einem eigenständigen MPB-Stil.",
+      "musical": "\"Se\" zeigt Djavans charakteristische Verschmelzung von nordostbrasilianischen Rhythmen mit Jazz-Harmonien und sophistizierten Texten. Der Song spielt kreativ mit dem Wort \"se\" als Symbol für Unentschlossenheit."
     },
     "idiomatic_expressions": [
-      {
-        "original": "Quando é assim\nDeixa vir do coração\nVocê sabe que eu só penso em você\nVocê diz que vive pensando em mim\nPode ser, se é assim\nVocê tem que largar a mão do não\nSoltar essa louca, arder de paixão\nNão há como doer pra decidir\nSó dizer sim ou não\nMas você adora um se\nEu levo a sério mas você disfarça\nVocê me diz à beça e eu nessa de horror\nE me remete ao frio que vem lá do sul\nInsiste em zero a zero e eu quero um a um\nSei lá o que te dá, não quer meu calor\nSão Jorge por favor me empresta o dragão\nMais fácil aprender japonês em braile\nDo que você decidir se dá ou não\nVocê disse que não sabe se não\nMas também não tem certeza que sim\nQuer saber?",
-        "translated": "Übersetzung würde hier stehen",
-        "explanation": "Dieser Ausdruck zeigt typische brasilianische Sprachwendungen und kulturelle Nuancen, die in der direkten Übersetzung oft verloren gehen."
-      }
+    {
+      "original": "largar a mão do não",
+      "translated": "das Nein loslassen", 
+      "explanation": "Brasilianische Redewendung, die bedeutet, aufzuhören, sich zu weigern oder negativ zu sein. Impliziert, eine ablehnende Haltung aufzugeben."
+    },
+    {
+      "original": "à beça",
+      "translated": "viel/eine Menge",
+      "explanation": "Umgangssprachlicher brasilianischer Ausdruck für \"sehr viel\" oder \"in großen Mengen\"."
+    },
+    {
+      "original": "São Jorge por favor me empresta o dragão",
+      "translated": "Sankt Georg, bitte leihe mir den Drachen",
+      "explanation": "Humorvolle Anspielung auf den Heiligen Georg, der den Drachen besiegte. Der Sänger bittet ironisch um Hilfe bei einer unmöglichen Aufgabe."
+    }
     ],
     "tags": [
       "brasilianisch",
@@ -2007,18 +2395,12 @@
       "youtube": "https://www.youtube.com/watch?v=7EjIdjKNRls",
       "spotify": "https://open.spotify.com/track/5wn7dRsPFOd236GySyJqLx?si=12a6d358b92a44ad"
     },
-    "description": "In dieser Kollaboration verbinden Chau São Paulo–Stil von Chitãozinho & Xororós Sertanejo (!) mit den poetischen Bildern Zé Ramalhos. Sinônimos hinterfragt mit Fragen wie „Wer weiß, ob du beständig bist?“ die wankelmütige Natur der Liebe und passt so perfekt in beide Repertoires.",
+    "description": "„Synonyme“ ist ein moderner brasilianischer Pop-Song, der Elemente des Sertanejo mit poetischen Textbildern verbindet und Themen wie Liebe und Leid hinterfragt. Die Kooperation von Chitãozinho & Xororó und Zé Ramalho vereint Tradition und Innovation.",
     "cultural_context": {
-      "historical": "Die Musik von Chitaozinho & Xororó, Zé Ramalho ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Sinonimos\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Chitãozinho & Xororó gehören zu den führenden Vertretern des brasilianischen Sertanejo, das in den 1980er Jahren an Popularität gewann. Zé Ramalho prägte in den 1970er und 1980er Jahren mit seinen mystischen Texten die brasilianische Rock- und Folk-Szene.",
+      "musical": "Der Song kombiniert traditionelle Sertanejo-Elemente wie akustische Gitarren und mehrstimmigen Gesang mit introspektiven, poetischen Klangfarben, die typisch für Zé Ramalho sind."
     },
-    "idiomatic_expressions": [
-      {
-        "original": "E quantos segredos traz o coração de uma mulher?",
-        "translated": "Übersetzung würde hier stehen",
-        "explanation": "Dieser Ausdruck zeigt typische brasilianische Sprachwendungen und kulturelle Nuancen, die in der direkten Übersetzung oft verloren gehen."
-      }
-    ],
+    "idiomatic_expressions": [],
     "tags": [
       "brasilianisch",
       "populär",
@@ -2040,10 +2422,10 @@
       "youtube": "https://www.youtube.com/watch?v=YRy4ET_4788",
       "spotify": "https://open.spotify.com/track/2SnD0nDxUM3J8Ii0liM2qV?si=890b521f35b34c38"
     },
-    "description": "Socorro ist ein expressives Klangexperiment, in dem Antunes mit Wortwiederholungen („Socorro, não sinto nada“) existenzielle Leere thematisiert. Die reduzierte Instrumentierung und sein gesprochener Gesangsstil verstärken die klaustrophobische Atmosphäre.",
+    "description": "„Socorro“ ist ein minimalistisches Klangexperiment von Arnaldo Antunes, das existenzielle Leere und emotionale Taubheit thematisiert. Die reduzierte Instrumentierung und der gesprochene Vortrag verstärken die beklemmende Atmosphäre.",
     "cultural_context": {
-      "historical": "Arnaldo Antunes ist ein bedeutender brasilianischer Dichter, Sänger und ehemaliges Mitglied der Band Titãs. Seine Solo-Karriere seit den 1990er Jahren ist geprägt von experimentellen Texten und minimalistischen Kompositionen.",
-      "musical": "Seine Musik verbindet poetische Texte mit einfachen, aber wirkungsvollen Melodien. \"A Casa é Sua\" zeigt seine Fähigkeit, alltägliche Themen in tiefgründige Reflexionen zu verwandeln."
+      "historical": "Arnaldo Antunes war Gründungsmitglied der brasilianischen Rockband Titãs und prägt seit den 1990er Jahren die MPB mit avantgardistischen Texten und Konzeptalben.",
+      "musical": "Der Song kombiniert spärische Rhythmusmuster und Klanglandschaften mit Sprechgesang, wobei sich Antunes’ poetische Wortspiele und experimentelle Klangtexturen ergänzen."
     },
     "idiomatic_expressions": [],
     "tags": [
@@ -2067,10 +2449,10 @@
       "youtube": "https://www.youtube.com/watch?v=v3SQTOZO36E",
       "spotify": "https://open.spotify.com/track/0hcBKkhiWL0BIskFrWZcJc?si=432079cd8022416f"
     },
-    "description": "Zarte Melodie über die feinen Schwingungen der Liebe: „Sutilmente me abrace“ lädt zum vertrauten Einkuscheln ein, musikalisch untermalt von verspielten Rhythmen.",
+    "description": "„Unauffällig“ ist ein sanft groovender Pop-Rock-Song von Skank, der mit feinen Metaphern die verschiedenen Gemütslagen in einer Liebesbeziehung erkundet. Verspielte Gitarrenriffs und entspannte Schlagzeugbeats schaffen eine warme, dennoch zurückhaltende Atmosphäre.",
     "cultural_context": {
-      "historical": "Die Musik von Skank ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Sutilmente\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Skank wurde 1991 in Belo Horizonte gegründet und prägte in den 1990er und 2000er Jahren den brasilianischen Pop-Rock mit eingängigen Melodien und sozialkritischen Texten.",
+      "musical": "„Sutilmente“ kombiniert akustische Gitarrenarpeggios mit Reggae- und Funk-Elementen, während der Gesang ruhig bleibt und die subtilen Stimmungswechsel betont."
     },
     "idiomatic_expressions": [],
     "tags": [
@@ -2094,10 +2476,10 @@
       "youtube": "https://www.youtube.com/watch?v=zPI1p6GlApQ",
       "spotify": "https://open.spotify.com/track/4S8iJpjnjUnjErnCyG6pfL?si=858f3e3f7d884b27"
     },
-    "description": "Funkiges Pop-Stück mit treibendem Bass und engelsgleichem Refrain, in dem bedingungslose Sehnsucht („Te quero tanto“) in englischer Klammer Zusatz-Intensität erhält.",
+    "description": "„So sehr (Ich will dich)“ ist ein funkiges Pop-Stück von Skank, das mit pulsierendem Bass und eingängigen Refrains bedingungslose Sehnsucht thematisiert. Die englische Klammer im Titel verstärkt die universelle Aussage des Songs.",
     "cultural_context": {
-      "historical": "Die Musik von Skank ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Tanto (I Want You)\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Skank formierte sich 1991 in Belo Horizonte und prägte in den 1990er und 2000er Jahren den brasilianischen Pop-Rock mit ihrem genreübergreifenden Stil. „Tanto (I Want You)“ erschien 1996 und zeigt den Aufstieg der Band zu internationaler Bekanntheit.",
+      "musical": "Der Song kombiniert funkige Basslinien, leichte Reggae-Anleihen und poppige Gitarrenriffs, während der klare Gesang die emotionale Intensität des Refrains hervorhebt."
     },
     "idiomatic_expressions": [],
     "tags": [
@@ -2121,10 +2503,10 @@
       "youtube": "https://www.youtube.com/watch?v=0s7Q2PVPsQA",
       "spotify": "https://open.spotify.com/track/1Ri5vB7MwuTdr6KiLq3VQJ?si=0978e0a31b0c40c9"
     },
-    "description": "Die New-Wave‑Band Ira! zeichnet in Tarde Vazia das Gefühl einer einsamen Wartezeit nach: Ein einsames Telefonat gibt dem Tag Bedeutung. Die Mischung aus kraftvollen Gitarren und nebligem Synth-Pop-Arrangement macht den Song zum Klassiker der brasilianischen Post‑Punk-Bewegung.",
+    "description": "„Leerer Nachmittag“ ist ein atmosphärischer New-Wave-/Post-Punk-Song von Ira!, der die Leere wartender Stunden und die rettende Kraft eines einfachen Anrufs thematisiert. Die Kombination aus kreischenden Gitarrenriffs und verschwommenen Synthesizern schafft eine melancholische Klanglandschaft.",
     "cultural_context": {
-      "historical": "Die Musik von Ira ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Tarde Vazia\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Ira! wurde 1981 in São Paulo gegründet und zählt zu den Wegbereitern der brasilianischen Post-Punk- und New-Wave-Bewegung der 1980er Jahre. „Tarde Vazia“ erschien 1984 und gilt als Klassiker des brasilianischen Undergrounds.",
+      "musical": "Der Song verbindet treibende, verzerrte E-Gitarren mit düsteren Synthesizer-Texturen und einem markanten Basslauf, wodurch eine klaustrophobische, zugleich fesselnde Atmosphäre entsteht."
     },
     "idiomatic_expressions": [
       {
@@ -2153,10 +2535,10 @@
       "youtube": "https://www.youtube.com/watch?v=pd8A36Vbr4c",
       "spotify": "https://open.spotify.com/track/5Zb94ke9RQDjpa4yKW2aoA?si=72b4c5aa947a4646"
     },
-    "description": "Eingängige Pop-Rock-Ballade über das unwiderstehliche Verlangen, den/die Geliebte zu sehen. Sanfte Akkorde und der wiederkehrende Refrain machen den Song zu einem Live-Favoriten.",
+    "description": "„Dich sehen“ ist eine gefühlvolle Pop-Rock-Ballade von Skank, die das unstillbare Verlangen thematisiert, den geliebten Menschen zu sehen. Sanfte Akkorde und eingängige Refrains unterstreichen die emotionale Intensität.",
     "cultural_context": {
-      "historical": "Die Musik von Skank ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Te Ver\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Skank wurde 1991 in Belo Horizonte gegründet und prägte in den 1990er und 2000er Jahren den brasilianischen Pop-Rock mit ihrem melodischen Stil. „Te Ver“ erschien 1994 auf dem Album \"Calango\" und festigte den internationalen Ruf der Band.",
+      "musical": "Der Song verbindet klare Pop-Melodien mit leichten Reggae-Anleihen und dezenten Funk-Rhythmen, während der mehrstimmige Gesang die sehnsuchtsvolle Stimmung verstärkt."
     },
     "idiomatic_expressions": [],
     "tags": [
@@ -2179,18 +2561,12 @@
       "youtube": "https://www.youtube.com/watch?v=zqKgYIqGmkM",
       "spotify": "https://open.spotify.com/track/0MeqLDxoK38jwkcWKDiPHu?si=ab31a09d5fe14e10"
     },
-    "description": "Humorvolle Pop‑Ballade mit eingängigem Refrain („eu recebi um telegrama...“). Zeca Baleiro verbindet Ironie und Melancholie und feierte damit einen Radioklassiker der 2000er.",
+    "description": "„Telegramm“ ist eine humorvolle Pop-Ballade von Zeca Baleiro, die mit Ironie und Melancholie den Moment verpasst geglückter Liebe schildert. Eingängige Melodie und pointierte Textbilder machten den Song Anfang der 2000er zum Radioklassiker.",
     "cultural_context": {
-      "historical": "Die Musik von Zeca Baleiro ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Telegrama\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Zeca Baleiro wurde in den 1990er Jahren in Maranhão bekannt und prägte die brasilianische MPB mit ironisch-lyrischen Konzeptalben; „Telegrama“ (2002) wurde sein größter Hit.",
+      "musical": "Der Song verbindet leichtfüßige Pop-Rhythmen mit folkloristischen Anklängen und einem markanten Refrain, in dem Baleiro zwischen Gesang und Sprechstimme wechselt."
     },
-    "idiomatic_expressions": [
-      {
-        "original": "Mama!",
-        "translated": "Übersetzung würde hier stehen",
-        "explanation": "Dieser Ausdruck zeigt typische brasilianische Sprachwendungen und kulturelle Nuancen, die in der direkten Übersetzung oft verloren gehen."
-      }
-    ],
+    "idiomatic_expressions": [],
     "tags": [
       "brasilianisch",
       "populär",
@@ -2211,10 +2587,10 @@
       "youtube": "https://www.youtube.com/watch?v=3xqe-EroynM",
       "spotify": "https://open.spotify.com/track/2ChzzRq6eOUkc5mWea4DDF?si=948c457bc266464e"
     },
-    "description": "In Teresinha webt Buarque eine bittersüße Erzählung über das unverhoffte Aufeinandertreffen zweier Welten. Der gehauchte Gesang, die unterschwellige Ironie und sanfte Jazz-Harmonien zeichnen das Stück als poetisches Highlight seines Repertoires aus.",
+    "description": "„Teresinha“ ist eine poetische Bossa-Nova-Erzählung von Chico Buarque, in der drei Verehrer in bittersüßer Leichtigkeit um das Herz der Protagonistin wetteifern. Hauchender Gesang und dezente Jazz-Harmonien verleihen dem Stück eine nostalgische Atmosphäre.",
     "cultural_context": {
-      "historical": "Die Musik von Chico Buarque ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Teresinha\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Chico Buarque prägte seit den 1960er Jahren die brasilianische MPB als Sänger, Komponist und Autor, wobei „Teresinha“ (1979) in der Zeit politischer Zensur subtile Gesellschaftskritik erlaubt.",
+      "musical": "Der Song verbindet klassische Bossa-Nova-Rhythmen mit jazzigen Akkorden und leisem Chor, während Buarques erzählender Gesang die narrative Struktur unterstützt."
     },
     "idiomatic_expressions": [],
     "tags": [
@@ -2231,28 +2607,27 @@
     },
     "lyrics": {
       "original": "Ei, mãe!<br>Eu tenho uma guitarra elétrica<br>Durante muito tempo isso foi tudo<br>Que eu queria ter<br><br>Mas, ei mãe!<br>Alguma coisa ficou pra trás<br>Antigamente eu sabia exatamente o que fazer<br><br>Ei, mãe!<br>Tem uns amigos tocando comigo<br>Eles são legais, além do mais<br>Não querem nem saber<br><br>Mas agora, lá fora<br>Todo mundo é uma ilha<br>A milhas e milhas e milhas<br>De qualquer lugar<br><br>Nessa terra de gigantes<br>Eu sei, já ouvimos tudo isso antes<br>A juventude é uma banda<br>Numa propaganda de refrigerantes<br><br>As revistas, as revoltas, as conquistas<br>Da juventude são heranças<br>São motivos pras mudanças de atitude<br>Os discos, as danças, os riscos<br>Da juventude<br>A cara limpa, a roupa suja<br>Esperando que o tempo mude<br><br>Nessa terra de gigantes<br>Tudo isso já foi dito antes<br>A juventude é uma banda<br>Numa propaganda de refrigerantes<br><br>Ei, mãe!<br>Já não esquento a cabeça<br>Durante muito tempo<br>Isso foi só o que eu podia fazer<br><br>Mas ei, ei, mãe!<br>Por mais que a gente cresça<br>Há sempre coisas que a gente<br>Não pode entender<br><br>Por isso, mãe<br>Só me acorda quando o Sol tiver se posto<br>Eu não quero ver meu rosto<br>Antes de anoitecer<br><br>Pois agora lá fora<br>O mundo todo é uma ilha<br>A milhas e milhas e milhas<br><br>Nessa terra de gigantes<br>Que trocam vidas por diamantes<br>A juventude é uma banda<br>Numa propaganda de refrigerantes<br><br>Nessa terra de gigantes<br>Que trocam vidas por diamantes<br>A juventude é uma banda<br>Numa propaganda de refrigerantes<br><br>Ei, mãe<br>(Ei, mãe)",
-      "translated": "Hey, Mutter!<br>Ich habe eine E-Gitarre<br>Das war lange Zeit alles<br>Was ich haben wollte<br><br>Aber, hey Mutter!<br>Irgendetwas ist auf der Strecke geblieben<br>Früher wusste ich genau, was ich tun sollte<br><br>Hey, Mutter!<br>Es gibt ein paar Freunde, die mit mir spielen<br>Sie sind cool, außerdem<br>Wollen sie nichts wissen<br><br>Aber jetzt, draußen<br>Ist jeder eine Insel<br>Meilenweit entfernt<br>Von jedem Ort<br><br>In diesem Land der Giganten<br>Ich weiß, das haben wir alles schon gehört<br>Die Jugend ist eine Band<br>In einer Limonadenwerbung<br><br>Die Zeitschriften, die Aufstände, die Errungenschaften<br>Der Jugend sind Erbstücke<br>Sie sind Gründe für Einstellungsänderungen<br>Die Platten, die Tänze, die Risiken<br>Der Jugend<br>Das saubere Gesicht, die schmutzige Kleidung<br>In der Hoffnung, dass sich die Zeit ändert<br><br>In diesem Land der Giganten<br>Das alles wurde schon gesagt<br>Die Jugend ist eine Band<br>In einer Limonadenwerbung<br><br>Hey, Mutter!<br>Ich mache mir keine Sorgen mehr<br>Lange Zeit<br>War das alles, was ich tun konnte<br><br>Aber hey, hey, Mutter!<br>Auch wenn wir erwachsen werden<br>Gibt es immer noch Dinge, die wir<br>Nicht verstehen können<br><br>Also, Mutter<br>Wecke mich nur, wenn die Sonne untergegangen ist<br>Ich möchte mein Gesicht nicht sehen<br>Bevor es dunkel wird<br><br>Denn jetzt draußen<br>Ist die ganze Welt eine Insel<br>Meilenweit entfernt<br><br>In diesem Land der Giganten<br>Die Leben gegen Diamanten eintauschen<br>Die Jugend ist eine Band<br>In einer Limonadenwerbung<br><br>In diesem Land der Giganten<br>Die Leben gegen Diamanten eintauschen<br>Die Jugend ist eine Band<br>In einer Limonadenwerbung<br><br>Hey, Mutter<br>(Hey, Mutter)"
+      "translated": "Hey, Mutter!<br>Ich habe eine E-Gitarre<br>Das war lange Zeit alles<br>Was ich haben wollte<br><br>Aber, hey Mutter!<br>Irgendetwas ist auf der Strecke geblieben<br>Früher wusste ich genau, was ich tun sollte<br><br>Hey, Mutter!<br>Es gibt ein paar Freunde, die mit mir spielen<br>Sie sind cool, außerdem<br>Wollen sie nichts wissen<br><br>Aber jetzt, draußen<br>Ist jeder eine Insel<br>Meilenweit entfernt<br>Von jedem Ort<br><br>In diesem Land der Giganten<br>Ich weiß, das haben wir alles schon gehört<br>Die Jugend ist eine Band<br>In einer Sodawerbung<br><br>Die Zeitschriften, die Aufstände, die Errungenschaften<br>Der Jugend sind Erbstücke<br>Sie sind Gründe für Einstellungsänderungen<br>Die Platten, die Tänze, die Risiken<br>Der Jugend<br>Das saubere Gesicht, die schmutzige Kleidung<br>In der Hoffnung, dass sich die Zeit ändert<br><br>In diesem Land der Giganten<br>Das alles wurde schon gesagt<br>Die Jugend ist eine Band<br>In einer Sodawerbung<br><br>Hey, Mutter!<br>Ich mache mir keine Sorgen mehr<br>Lange Zeit<br>War das alles, was ich tun konnte<br><br>Aber hey, hey, Mutter!<br>Auch wenn wir erwachsen werden<br>Gibt es immer noch Dinge, die wir<br>Nicht verstehen können<br><br>Also, Mutter<br>Wecke mich nur, wenn die Sonne untergegangen ist<br>Ich möchte mein Gesicht nicht sehen<br>Bevor es dunkel wird<br><br>Denn jetzt draußen<br>Ist die ganze Welt eine Insel<br>Meilenweit entfernt<br><br>In diesem Land der Giganten<br>Die Leben gegen Diamanten eintauschen<br>Die Jugend ist eine Band<br>In einer Sodawerbung<br><br>In diesem Land der Giganten<br>Die Leben gegen Diamanten eintauschen<br>Die Jugend ist eine Band<br>In einer Sodawerbung<br><br>Hey, Mutter<br>(Hey, Mutter)"
     },
     "links": {
       "youtube": "https://www.youtube.com/watch?v=J-241JqvpF8",
       "spotify": "https://open.spotify.com/track/1ikL8Lemlm3N58ahyLxIvP?si=965c5bdf950a4f39"
     },
-    "description": "In diesem Song reflektiert die Band über Generationenkonflikte („Die Jugend ist eine Band in einer Werbepause“). Der treibende Beat und die ironischen Bilder einer „Riesenwelt“ zeigen den typisch kritischen Blick der Gruppe auf mediale und gesellschaftliche Landschaften.",
+    "description": "„Land der Giganten“ ist ein ironisch-kritischer Rocksong von Engenheiros do Hawaii, der Generationenkonflikte und die Kommerzialisierung Jugendlicher reflektiert. Treibender Beat und pointierte Texte zeichnen das Stück aus.",
     "cultural_context": {
-      "historical": "Die Musik von Engenheiros do Hawaii ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Terra de Gigantes\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Engenheiros do Hawaii wurde 1984 in Porto Alegre gegründet und zählt zu den einflussreichsten brasilianischen Rockbands der 1980er und 1990er Jahre. „Terra de Gigantes“ (1987) thematisierte früh den Einfluss der Massenmedien auf die Jugend.",
+      "musical": "Der Song verbindet kraftvolle Gitarrenriffs und einen funkigen Bass mit New-Wave-Synthesizern, während der Gesang zwischen lakonischen Versen und hymnischen Refrains wechselt."
     },
     "idiomatic_expressions": [
       {
-        "original": "Alguma coisa ficou pra trás\nAntigamente eu sabia exatamente o que fazer\n\nEi, mãe!",
-        "translated": "Übersetzung würde hier stehen",
-        "explanation": "Dieser Ausdruck zeigt typische brasilianische Sprachwendungen und kulturelle Nuancen, die in der direkten Übersetzung oft verloren gehen."
+        "original": "A juventude é uma banda numa propaganda de refrigerantes",
+        "translated": "Die Jugend ist eine Band in einer Sodawerbung",
+        "explanation": "Metaphorische Kritik an der Oberflächlichkeit: Die Jugend wird hier mit einer austauschbaren Werbeband verglichen, um Konsum- und Marketingmechanismen zu hinterfragen."
       }
     ],
     "tags": [
       "brasilianisch",
       "populär",
-      "humorvoll",
       "zeitgenössisch"
     ]
   },
@@ -2270,12 +2645,18 @@
       "youtube": "https://www.youtube.com/watch?v=Uem6w29LcGA",
       "spotify": "https://open.spotify.com/track/2hsLZH9ZoyQAo1drxbF1Il?si=be3c5fa82d094910"
     },
-    "description": "Dieses Lied ist eine pointierte Abrechnung mit einer gescheiterten Beziehung, in der Buarque respektvoll, aber bestimmt alle Symbole des gemeinsamen Lebens in „miúdos“ („Kleinteile“) zerlegt. Die lakonische Melodie und klare Sprache unterstreichen das doppelbödige Wortspiel.",
+    "description": "„Einfach gesagt“ ist ein lakonisches MPB-Stück von Chico Buarque, in dem er eine gescheiterte Beziehung in klaren Bildern zerlegt. Die reduzierte Melodie und der ruhige Vortrag unterstreichen die sarkastische Distanz.",
     "cultural_context": {
-      "historical": "Die Musik von Chico Buarque ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Trocando em Miúdos\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Chico Buarque prägte seit den 1960er Jahren die brasilianische MPB mit politisch und persönlich reflektierten Kompositionen; „Trocando em Miúdos“ erschien 1978 auf dem Album Chico Buarque, mitten in der Militärdiktatur.",
+      "musical": "Der Song kombiniert sanfte Gitarrenakkorde und dezente Streichermotive mit Buarques erzählendem Gesang, wobei er mit minimalistischer Instrumentierung und nüchternem Klangbild arbeitet."
     },
-    "idiomatic_expressions": [],
+    "idiomatic_expressions": [
+      {
+        "original": "Trocando em miúdos",
+        "translated": "Einfach gesagt",
+        "explanation": "Wörtlich „in Kleinteilen sprechen“ bedeutet diese Redewendung, etwas unmissverständlich und in einfachen Worten darzulegen."
+      }      
+    ],
     "tags": [
       "brasilianisch",
       "populär",
@@ -2296,12 +2677,23 @@
       "youtube": "https://www.youtube.com/watch?v=lSIhdVyoOpc",
       "spotify": "https://open.spotify.com/track/7MyJB1WvzUmbIQpwqLmvY6?si=43ad92c53a81489f"
     },
-    "description": "Mit eingängigem Gitarrenpop und einem hymnischen Refrain verkörpert Lulu Santos hier den Archetyp des altmodischen Romantikers, der in moderner Pop-Klänge verpackt wird.",
+    "description": "Mit eingängigem Gitarrenpop und klarem Synthesizer prägt Lulu Santos hier das Bild eines weltgewandten Romantikers, der Sehnsucht und Lebensfreude in moderne Popmusik kleidet. Diese 1984 veröffentlichte Single verbindet brasilianische Leichtigkeit mit zeitgenössischem Pop-Appeal.",
     "cultural_context": {
-      "historical": "Die Musik von Lulu Santos ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Ultimo Romantico\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "1983 feierte Lulu Santos als Pionier des brasilianischen Pop-Erfolgs, dessen Songs Ausdruck der urbanen Metamorphose São Paulos in den 1980er-Jahren sind.",
+      "musical": "“Letzte Romantik” vereint treibende Gitarrenriffs, Funk-Elemente und eingängige Synthesizer-Arrangements, geprägt von brasilianischem Pop-Rock und internationalem New-Wave."
     },
-    "idiomatic_expressions": [],
+    "idiomatic_expressions": [
+      {
+        "expression": "tomar o mundo feito Coca-Cola",
+        "translation": "die Welt nehmen wie Coca-Cola",
+        "explanation": "Metapher dafür, das Leben erfrischend und genussvoll zu gestalten, angelehnt an das populäre Erfrischungsgetränk."
+      },
+      {
+        "expression": "fazer da minha vida meu passeio público",
+        "translation": "mein Leben zu meinem öffentlichen Spaziergang machen",
+        "explanation": "Bedeutet, das eigene Leben offen und unbeschwert zur Schau zu stellen."
+      }
+    ],
     "tags": [
       "brasilianisch",
       "populär",
@@ -2322,10 +2714,10 @@
       "youtube": "https://www.youtube.com/watch?v=RhLJFYwutUs",
       "spotify": "https://open.spotify.com/track/6BmiOymAiOcmThWDKLysFK?si=5ad1303b906b4d07"
     },
-    "description": "Valsinha ist eine zarte Walzerballade von Chico Buarque. Mit nostalgischem Blick auf das erste gemeinsame Tanzen fängt das Lied zarte Romantik ein und bleibt ein liebevoller Klassiker der MPB.",
+    "description": "„Valsinha“ ist eine zarte Walzerballade von Chico Buarque, die in poetischen Bildern das erste gemeinsame Tanzen feiert. Die 1971 erschienene Single verkörpert nostalgische Romantik im Stil der MPB.",
     "cultural_context": {
-      "historical": "Die Musik von Chico Buarque ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Valsinha\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "1971 veröffentlichte Chico Buarque „Valsinha“ inmitten der brasilianischen Militärdiktatur, wobei Liebeslieder als leiser Widerstand dienten.",
+      "musical": "Musikalisch verbindet das Lied traditionelle Walzerrhythmen mit der Intimität der MPB, getragen von sanften Streichern und dezenten Gitarrenklängen."
     },
     "idiomatic_expressions": [],
     "tags": [
@@ -2348,12 +2740,18 @@
       "youtube": "https://www.youtube.com/watch?v=fHpv1HzCLUo",
       "spotify": "https://open.spotify.com/track/1bCxd4XhDcJJsEqVfmMa4o?si=04d74b5615e94e8d"
     },
-    "description": "Poeti­scher Indierock: Die Band besingt die Schwierigkeit, nach einer Trennung loszulassen. Sanfte Melodie, verschachtelte Akkorde und Bruno Bells weicher Gesang machen das Stück zu einem kraftvollen Nachdenk-Klassiker.",
+    "description": "Der Song aus dem Album \"Bloco do Eu Sozinho\" (2001) verbindet brasilianischen Indie-Rock mit subtilen Samba-Rhythmen und melancholischem Gesang.",
     "cultural_context": {
-      "historical": "Die Musik von Los Hermanos ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Veja bem meu bem\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Los Hermanos, gegründet 1997 in Rio de Janeiro, prägten Anfang der 2000er Jahre die brasilianische Rockszene mit ihrem Genre-Mix und politisch-sozialem Feingefühl.",
+      "musical": "\"Veja bem meu bem\" zeichnet sich durch verschachtelte Akkordfolgen, Swing-Grooves im 2/4-Takt und den Einsatz akustischer Gitarren sowie Cavaquinho aus."
     },
-    "idiomatic_expressions": [],
+    "idiomatic_expressions": [
+      {
+        "expression": "Veja bem",
+        "translation": "Sieh gut hin",
+        "explanation": "Führe ins Thema ein, um die Dringlichkeit der Aussage zu betonen; im Deutschen entspricht „sieh mal“."
+      }
+    ],
     "tags": [
       "brasilianisch",
       "populär",
@@ -2374,10 +2772,10 @@
       "youtube": "https://www.youtube.com/watch?v=ASZFN46jYD0",
       "spotify": "https://open.spotify.com/track/6dXzYNj8bWhHXL3hmedIa5?si=c96585957fc84e01"
     },
-    "description": "Diese Rock-Ballade von Biquíni Cavadão verwebt eingängige Gitarrenriffs mit metaphorischen Texten über Freiheit und Sehnsucht („Vento, ventania, me leve pra onde nasce a chuva“). Sie wurde zum Hit der brasilianischen Pop-Rock‑Ära der späten 1980er.",
+    "description": "Diese Rockballade aus dem Jahr 1991 vereint treibende E-Gitarrenriffs mit metaphorischen Windbildern und wurde zum Klassiker der brasilianischen Pop-Rock-Szene.",
     "cultural_context": {
-      "historical": "Die Musik von Biquini Cavadao ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Vento Ventania\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Biquíni Cavadão, gegründet 1985 in Rio de Janeiro, prägte mit seinem eingängigen Pop-Rock maßgeblich die „BRock“-Bewegung der späten 1980er Jahre.",
+      "musical": "\"Vento Ventania\" zeichnet sich durch dynamische Gitarren-Hooks, pulsierende Basslines und sphärische Synthesizerklänge aus, begleitet von poetischen Metaphern über Freiheit."
     },
     "idiomatic_expressions": [],
     "tags": [
@@ -2401,18 +2799,12 @@
       "youtube": "https://www.youtube.com/watch?v=douUUoXIdBc",
       "spotify": "https://open.spotify.com/track/3ab7KnHf7J35kq9cuunBqO?si=dd6b842975de4f0f"
     },
-    "description": "Caetano Velosos introspektive Ballade seziert das Paradox der Trennung: Er kann nicht vergessen, weil er nicht aufgehört hat zu lieben. Zarte Gitarrenbegleitung und sein samtiger Gesang machen dieses Stück zu einem Move­ment‑Standard der Tropicália.",
+    "description": "Die introspektive Ballade aus Velosos Album „Lisbela e o Prisioneiro“ (2004) seziert das Paradoxon der Trennung: Nicht vergessen können, weil man weiterhin liebt. Zarte Gitarrenbegleitung und sein samtiger Gesang prägen den Tropicália-Klassiker.",
     "cultural_context": {
-      "historical": "Die Musik von Caetano Veloso ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Voce nao me ensinou a te esquecer\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Caetano Veloso, Mitbegründer der Tropicália-Bewegung Ende der 1960er Jahre, revolutionierte die brasilianische Musik mit politisch provokanten Texten und Genre-Vermischungen.",
+      "musical": "Das Stück kombiniert subtile Bossa-Nova-Rhythmen mit Tropicália-typischen experimentellen Arrangements und betonter Melodik."
     },
-    "idiomatic_expressions": [
-      {
-        "original": "Você não me ensinou a te esquecer\nVocê só me ensinou a te querer\nE te querendo eu vou tentando me encontrar\nE nesse desespero em que me vejo\nJá cheguei a tal ponto\nDe me trocar diversas vezes por você\nSó pra ver se te encontro\nVocê bem que podia perdoar\nE só mais uma vez me aceitar\nPrometo agora vou fazer por onde\nNunca mais perdê-la\nAgora, que faço eu da vida sem você?",
-        "translated": "Übersetzung würde hier stehen",
-        "explanation": "Dieser Ausdruck zeigt typische brasilianische Sprachwendungen und kulturelle Nuancen, die in der direkten Übersetzung oft verloren gehen."
-      }
-    ],
+    "idiomatic_expressions": [],
     "tags": [
       "brasilianisch",
       "populär",
@@ -2433,18 +2825,12 @@
       "youtube": "https://www.youtube.com/watch?v=KGcn2rxWJAo",
       "spotify": "https://open.spotify.com/track/54JLlb23AnzXErLRSNVIUn?si=a275ad30650a44e0"
     },
-    "description": "Mit ihrem mitreißenden Samba-Stil verkörpert Beth Carvalho in Vou Festejar pure Lebensfreude. Die Aufforderung „Chora, mas vou festejar!“ spielt ironisch mit dem Gegensatz aus Schmerz und Feiern – ein Markenzeichen des Sambas aus der Carioca‑Szene.",
+    "description": "Diese Samba-Enredo-Hymne von 1978 vereint treibende Percussion mit markantem Pandeiro und feierlichem Chor und gilt als Beth Carvalhos musikalisches Manifest der Lebenslust.",
     "cultural_context": {
-      "historical": "Die Musik von Beth Carvalho ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Vou festejar\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Beth Carvalho war seit den 1970er Jahren zentrale Figur des Carioca-Sambas und Förderin traditioneller Root-Sambas über Jahrzehnte hinweg.",
+      "musical": "\"Vou festejar\" zeichnet sich durch synkopierte Samba-Rhythmen, Pandeiro-Akzente und jubilierende Bläserarrangements aus, typisch für Karnevalshymnen."
     },
-    "idiomatic_expressions": [
-      {
-        "original": "Chora\nNão vou ligar (não vou ligar)\nChegou a hora, vais me pagar\nPode chorar, pode chorar\n\nÉ o teu castigo\nBrigou comigo sem ter porquê\nEu vou festejar, vou festejar\nO teu sofrer o teu penar\n\nVocê pagou com traição\nA quem sempre lhe deu a mão\nVocê pagou com traição\nA quem sempre lhe deu a mão\n\nMas chora!",
-        "translated": "Übersetzung würde hier stehen",
-        "explanation": "Dieser Ausdruck zeigt typische brasilianische Sprachwendungen und kulturelle Nuancen, die in der direkten Übersetzung oft verloren gehen."
-      }
-    ],
+    "idiomatic_expressions": [],
     "tags": [
       "brasilianisch",
       "populär",
@@ -2466,50 +2852,12 @@
       "youtube": "https://www.youtube.com/watch?v=dZ_6_aAMbFc",
       "spotify": "https://open.spotify.com/track/2KIs0b240WWaiupuAEhbaZ?si=dfa45bfac1394153"
     },
-    "description": "Eine legendäre Instrumental‑Bossa, die zum Inbegriff des Genres wurde. Mit wehendem Piano‑Intro und sanftem Samba‑Rhythmus lädt Wave zum Träumen an tropischen Küsten ein.",
+    "description": "Die Bossa-Nova-Ikone von 1967 verbindet sanftes Piano-Intro mit geschmeidigem Samba-Rhythmus und üppigen Streicherarrangements und gilt als Klassiker des Genres.",
     "cultural_context": {
-      "historical": "Die Musik von Tom Jobim ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Wave\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Tom Jobim, Mitbegründer der Bossa Nova Ende der 1950er Jahre, prägte mit „Wave“ die internationale Popularität des Genres nachhaltig.",
+      "musical": "\"Wave\" besticht durch raffinierte Jazz-Akkordfolgen, fließende Melodielinien und eine subtile Rhythmussektion aus Gitarre, Bass und Percussion."
     },
-    "idiomatic_expressions": [
-      {
-        "original": "Da primeira vez era a cidade,\nDa segunda, o cais e a eternidade.",
-        "translated": "Übersetzung würde hier stehen",
-        "explanation": "Dieser Ausdruck zeigt typische brasilianische Sprachwendungen und kulturelle Nuancen, die in der direkten Übersetzung oft verloren gehen."
-      }
-    ],
-    "tags": [
-      "brasilianisch",
-      "populär",
-      "zeitgenössisch"
-    ]
-  },
-  {
-    "artist": "Gabriel, o Pensador",
-    "title": {
-      "original": "Xaxado Chiado",
-      "translated": "Xaxado Chiado"
-    },
-    "lyrics": {
-      "original": "Eu botei o som na caixa e testei o microfone no capricho mas o som saiu chiado<br>Eu tentei fazer um xote, um chorinho ou um maxixe mas não sei quem foi que disse que o que eu fiz era xaxado<br>Ó xente, vixe! Um xaxado diferente, de repente tá chegando pra ficar<br>Resolvi dar uma chegada lá no Sul pra mostrar o meu xaxado porque achei que lá embaixo iam gostar<br>Chinelo, chapéu, xampu<br>Enchi minha mochila e parti pro Sul<br>Encaixei um toca-fitas no chevete e achei o meu cassete do Raúl<br>Na estrada eu nem parei na lanchonete porque eu tinha pouco cash e esperei até chegar<br>Em território gaúcho só pra rechear o bucho de chuleta na chapa na churrascada de lá<br><br>Ó xente, vixe! É o xaxado é o maxixe!<br>Não se avexe, chefe, chega nesse show só de chinfra<br>Ó xente, vixe! É o xaxado é o maxixe!<br>Não se avexe, se mexe, meu chefe, chama na xinxa!<br>Uai, sô! Que trem doido sô! Que som doido sô! Que troço doido é esse?<br>Uai, sô! Quem trem doido sô! Que som doido sô! Que trem bão!<br><br>Fui mostrar meu xaxado pra gauchada<br>Mas rachou o chassi e eu vendi o chevete<br>Cheguei no \"buxixo\" de charrete<br>E xavequei uma mulher que parecia uma chacrete<br>Vê um x-salsicha e uma chícara de chá<br>Aqui aceita cheque?<br>- Mas claro, tchê! Bah!<br>Tomei um chimarrão e a chacrete confundiu o sanduíche com chiclete mastigando sem parar<br>- Chegaí... quer ketchup?<br>Ela não gostou da expressão<br>Armou o maior chilique e chamou o leão-de-chácara que veio me chutando e me jogando no chão<br>Ô xará, eu não fiz nada demais!<br>Peraí, vâmo fumar um cachimbinho da paz<br>O Schwarzenegger não quis nem saber<br>E me torturou que nem o Pinochet!<br>Não era tiazinha mas me encheu de chicotada<br>E me deixou chorando com a cara inchada<br>Xi... o xerife já chegou rachando o bico<br>- Barranqueiro!<br>Calma chefia, eu explico...<br>Ele me fechou no xilindró, puxou a minha ficha<br>E achou que eu tinha chamado ele de bicha<br>Mas o gaúcho era macho<br>Parecia uma rocha e usava bombacha<br>- Aqui no Sul, o buraco é mais embaixo!<br>Eu não gosto de deboche e vou te encher de bolacha!<br><br>Paguei minha fiança com a grana do chevete<br>E armei um cambalacho pra não ir a julgamento<br>Tentei fazer pechincha mas o cana me driblou feito Garrincha e me deixou sem argumento<br>Procurei um rasta-pé e fui parar na dança chula mas a festa tava cheia de mulher<br>As gaúcha pareciam com a Xuxa, pimba na gorducha, se der bola eu tô pé<br>Tinha uma gostosa de cabelo cacheado que eu fiquei apaixonado só de olhar<br>Ela de shortinho dava um show<br>E eu de cachecol sentindo um frio de rachar<br>Bicho, ela tinha um remelexo de fazer cair o queixo de qualquer cristão<br>E eu que não sou frouxo decidi dar um arrocho na cabroxa e chamei ela pro meio do salão<br>Pôxa, que coxa! Puxei ela com força, ela chiou, aí eu disse: Não se avexe<br>Encosta, chinoca... relaxa... se mexe, se mexe, se mexe, se mexe, se mexe<br>Se mexe, se mexe, se mexe, se mexe, se mexe, se mexe, se mexe, gaúcha<br>Me empurra que eu te puxo, se eu te empurro cê me puxa<br>Se mexe, se mexe, se mexe, se mexe, se mexe, se mexe que o seu remelexo me deixou maluco, cheio de tesão<br>E quando eu disse isso eu não sei que bicho deu nessa gaúcha que ela me deu um chupão<br>E cochichou que queria aprender o meu xaxado e me ouvir falar chiado no colchão<br>Se fosse no chevete era chocante<br>Mas na falta do possante eu fui pra beira de um riacho<br>Senti um cheiro estranho mas o bicho foi pegando... Hum! Me machuquei no fecho ecler, que esculacho!<br>O cheiro era de peixe e eu achei que era do rio mas me deu um calafrio quando eu vi que era chulé<br>Broxei no mesmo instante porque o cheiro da mulher era broxante e eu nem sei se era do pé<br>Aí chegou o namorado da gaúcha, chupado, esquelético que nem um raio-x<br>Ó xente, vixe! Tá chapado de haxixe, diz que eu vou me arrepender do que eu fiz<br>- Você? Me bater? Só se for com o chifre! 'se enxerga, xinxeiro magricela!<br>Mas o cara era faixa-preta, me acertou que nem boliche e me deixou com olho roxo e banguela<br>Eu só levei preju na viagem pro Sul<br>Agora eu vou pro estrangeiro pra tentar esquecer<br>Vou mostrar o meu xaxado viajando o mundo inteiro<br>E comprar outro chevete com o dinhiro do cachet<br><br>Ê, meu rei, que som massa, véio<br>Que som loco, mano, que som da hora esse<br>Ê, meu rei, que som massa, véio<br>Que som loco mano, que som dez",
-      "translated": "Ich hab den Sound in die Box gelegt und das Mikro fein abgestimmt, aber der Klang war kratzig.<br>Ich hab versucht, einen Xote, einen Choro oder einen Maxixe zu machen,<br>Aber ich weiß nicht, wer gesagt hat, dass das, was ich gemacht hab, Xaxado war.<br>(Hinweis: Xote, Choro, Maxixe und Xaxado sind brasilianische Musikstile. Xaxado stammt aus dem Nordosten und hat einen rhythmischen, tanzbaren Stil.)<br><br>Oh Leute, oh Mann! Ein anderer Xaxado,<br>Plötzlich kommt er, um zu bleiben.<br>Ich beschloss, in den Süden zu reisen, um meinen Xaxado zu zeigen,<br>Weil ich dachte, dass sie ihn dort unten mögen würden.<br><br>Flip-Flops, Hut, Shampoo,<br>Ich packte meinen Rucksack und zog in den Süden.<br>Ich steckte ein Kassettenradio in den Chevette und fand meine Kassette von Raúl.<br>(Chevette: Ein günstiges Auto von Chevrolet, beliebt in den 80ern in Brasilien. Raúl: Raúl Seixas, legendärer brasilianischer Musiker.)<br><br>Auf der Straße hielt ich nicht an, um etwas zu essen,<br>Weil ich wenig Geld hatte und wartete, bis ich ankam.<br>In gaúcho-Territorium (Gaúchos: Einwohner des Südens Brasiliens),<br>Um meinen Bauch mit Steak vom Grill zu füllen.<br><br>Oh Leute, oh Mann! Das ist Xaxado, das ist Maxixe!<br>Keine Angst, Chef, komm zu dieser Show, nur zum Spaß.<br>Oh Leute, oh Mann! Das ist Xaxado, das ist Maxixe!<br>Beweg dich, Chef, beweg dich, sei nicht schüchtern!<br><br>Uai, Mann! Was ist das für ein verrückter Kram? Was ist das für ein geiler Sound?<br>(„Uai“: Ein typisch brasilianischer Ausdruck aus Minas Gerais, der Überraschung ausdrückt.)<br><br>Ich wollte meinen Xaxado den Leuten im Süden zeigen.<br>Aber der Rahmen des Chevette brach, und ich verkaufte das Auto.<br>Ich kam in der Stadt mit einer Kutsche an<br>Und flirtete mit einer Frau, die wie eine Tänzerin aus einer 80er-Jahre-Show aussah.<br><br>\"Ein Würstchen-Sandwich und eine Tasse Tee, bitte.<br>Akzeptieren Sie Schecks?\"<br><br>\"Natürlich, Tchê! Bah!\"<br>(Tchê und Bah: Typische Ausdrücke aus Rio Grande do Sul.)<br>Ich trank einen Matetee, aber die Frau kaute<br>Das Sandwich, als wäre es Kaugummi, ununterbrochen.<br><br>\"Komm näher... Willst du Ketchup?\"<br>Sie mochte die Bemerkung nicht,<br>Ging aus der Haut, rief den Türsteher,<br>Der mich trat und auf den Boden warf.<br>\"Hey Kumpel, ich hab nichts Schlimmes gemacht!<br>Warte, lass uns die Friedenspfeife rauchen!\"<br>Der Typ war unerbittlich und behandelte mich wie Pinochet!<br>(Pinochet: Chilenischer Diktator, bekannt für harte Repressionen.)<br><br>Es war keine Domina, aber sie schlug mich mit einer Peitsche<br>Und ließ mich weinend und geschwollen zurück.<br>Oh nein, der Sheriff kam und lachte mich aus.<br><br>\"Barranqueiro!\"<br>(\"Barranqueiro\": Ein Spitzname für jemanden aus dem Nordosten, oft abwertend.)<br>Ich bezahlte die Kaution mit dem Geld vom Chevette,<br>Täuschte etwas vor, um nicht vor Gericht zu gehen.<br>Ich versuchte zu verhandeln, aber der Polizist war ein Meister wie Garrincha.<br>(Garrincha: Einer der besten brasilianischen Fußballer, bekannt für seine Dribblings.)<br><br>Ich fand eine Party mit Tanz, voller Frauen,<br>Die Gaúchas sahen aus wie Xuxa (Xuxa: Brasilianische TV-Ikone),<br>Und ich dachte: \"Wenn sie mich mögen, bin ich bereit.\"<br><br>Da war eine Schönheit mit lockigem Haar,<br>In die ich mich sofort verliebte.<br>Sie trug Shorts und zog alle Blicke auf sich,<br>Während ich in meinem Schal fast erfror.<br><br>Ihr Hüftschwung war atemberaubend,<br>Ich beschloss, sie zu umarmen und lud sie zum Tanz ein.<br>\"Wow, was für Beine!\" Ich zog sie näher, sie protestierte, aber ich sagte:<br>\"Keine Angst, Kleine, entspann dich und beweg dich.\"<br><br>\"Beweg dich, beweg dich, beweg dich, Gaúcha.<br>Schubs mich, ich zieh dich.\"<br><br>Doch als ich etwas zu frech wurde,<br>Ging sie los und gab mir einen Knutschfleck,<br>Flüsterte, dass sie meinen Xaxado lernen wollte.<br>Aber sie roch... nach Käsefüßen.<br><br>Der Moment war vorbei, ich war angewidert.<br>Dann kam ihr Freund, dürr wie ein Skelett,<br>Aber er war ein Karate-Meister und schlug mich k.o.<br><br>Ich verlor bei meiner Reise in den Süden alles.<br>Jetzt geh ich ins Ausland, um das zu vergessen,<br>Zeige meinen Xaxado der ganzen Welt<br>Und kaufe mir einen neuen Chevette mit der Gage."
-    },
-    "links": {
-      "youtube": "https://www.youtube.com/watch?v=bx3N-S9gQl8",
-      "spotify": "https://open.spotify.com/track/3JCObEpTfT1EbUEDRDm8D1?si=5188af63f31b40d3"
-    },
-    "description": "Gabriel bringt Humor und Wortspiel in diesen groovigen Rap-Samba, in dem er seinen „kratzigen Xaxado“ als kulturelle Rückkehr aus dem Nordosten nach São Paulo präsentiert. Die zahlreichen Anspielungen regionaler Slangs und Musikstile machen den Song zu einem lustigen Road-Trip-Erlebnis.",
-    "cultural_context": {
-      "historical": "Die Musik von Gabriel, o Pensador ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Xaxado Chiado\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
-    },
-    "idiomatic_expressions": [
-      {
-        "original": "quer ketchup?",
-        "translated": "Übersetzung würde hier stehen",
-        "explanation": "Dieser Ausdruck zeigt typische brasilianische Sprachwendungen und kulturelle Nuancen, die in der direkten Übersetzung oft verloren gehen."
-      }
-    ],
+    "idiomatic_expressions": [],
     "tags": [
       "brasilianisch",
       "populär",
@@ -2530,18 +2878,12 @@
       "youtube": "https://www.youtube.com/watch?v=CMiKdEpcreU",
       "spotify": "https://open.spotify.com/track/3QQhhSRe31x9qs1NqlOuOS?si=45021192a6ef4acd"
     },
-    "description": "Dieser beschwingte Forró-Track machte Falamansa zum Vorreiter der Revival-Welle des Xote in den späten 1990ern. Die einfache, fröhliche Melodie und die eingängigen Refrains („Dance o xote da alegria“) laden zum Mitsingen und Mitfeiern ein.",
+    "description": "Dieser beschwingte Forró-Track machte Falamansa zum Vorreiter der Revival-Welle des Xote in den späten 1990ern. Die einfache, fröhliche Melodie und der eingängige Refrain laden zum Mitsingen und Mitfeiern ein.",
     "cultural_context": {
-      "historical": "Die Musik von Falamansa ist ein wichtiger Bestandteil der brasilianischen Musiklandschaft und spiegelt kulturelle und soziale Aspekte des Landes wider.",
-      "musical": "\"Xote da Alegria\" zeigt die charakteristischen Elemente brasilianischer Musik, mit einer Mischung aus lokalen Rhythmen und internationalen Einflüssen."
+      "historical": "Falamansa, gegründet 1998 in São Paulo, belebt mit „Xote da Alegria“ traditionelle nordöstliche Rhythmen im urbanen Kontext neu.",
+      "musical": "\"Xote da Alegria\" kombiniert typischen Xote-Takt mit moderner Forró-Besetzung aus Zabumba, Triangel und Akkordeon."
     },
-    "idiomatic_expressions": [
-      {
-        "original": "Se afogando em agonia\nContra tempestade em copo d'água\nDance o xote da alegria\n\n(Simbora)\n\nSe um dia alguém mandou\nSer o que sou e o que gostar\nNão sei quem sou e vou mudar\nPra ser aquilo que eu sempre quis\n\nE se acaso você diz\nQue sonha um dia em ser feliz\nVê se fala sério\n\nPra que chorar sua mágoa?",
-        "translated": "Übersetzung würde hier stehen",
-        "explanation": "Dieser Ausdruck zeigt typische brasilianische Sprachwendungen und kulturelle Nuancen, die in der direkten Übersetzung oft verloren gehen."
-      }
-    ],
+    "idiomatic_expressions": [],
     "tags": [
       "brasilianisch",
       "populär",
